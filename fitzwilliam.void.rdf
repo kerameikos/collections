@@ -6,6 +6,6 @@
         <dcterms:description>Attic Greek vases of the Fitzwilliam Museum</dcterms:description>
         <dcterms:publisher>The Fitzwilliam Museum, University of Cambridge</dcterms:publisher>
         <dcterms:license rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/"/>		
-        <void:dataDump rdf:resource="http://18.209.35.196/rdf/fitzwilliam.rdf"/>
+        <void:dataDump rdf:resource="https://kerameikos.org/rdf/fitzwilliam.rdf"/>
     </void:Dataset>
 </rdf:RDF>

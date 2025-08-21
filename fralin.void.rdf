@@ -7,6 +7,6 @@
 		<dcterms:description>The Greek vases and 3D models of the Fralin Museum at the University of Virginia</dcterms:description>
 		<dcterms:publisher>Rector and Board of Visitors of the University of Virginia</dcterms:publisher>
 		<dcterms:license rdf:resource="https://creativecommons.org/licenses/by-nc/4.0/"/>
-		<void:dataDump rdf:resource="http://18.209.35.196/rdf/fralin.rdf"/>
+		<void:dataDump rdf:resource="https://kerameikos.org/rdf/fralin.rdf"/>
 	</void:Dataset>
 </rdf:RDF>

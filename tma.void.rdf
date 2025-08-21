@@ -6,6 +6,6 @@
         <dcterms:description>Greek vases of the Tampa Museum of Art</dcterms:description>
         <dcterms:publisher>Tampa Museum of Art</dcterms:publisher>
         <dcterms:license rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/"/>		
-        <void:dataDump rdf:resource="http://18.209.35.196/rdf/tma.rdf"/>
+        <void:dataDump rdf:resource="https://kerameikos.org/rdf/tma.rdf"/>
     </void:Dataset>
 </rdf:RDF>

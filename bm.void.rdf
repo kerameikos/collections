@@ -6,6 +6,6 @@
         <dcterms:description>Greek vases of the British Museum</dcterms:description>
         <dcterms:publisher>Trustees of the British Museum</dcterms:publisher>
         <dcterms:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>		
-        <void:dataDump rdf:resource="http://18.209.35.196/rdf/bm.rdf"/>
+        <void:dataDump rdf:resource="https://kerameikos.org/rdf/bm.rdf"/>
     </void:Dataset>
 </rdf:RDF>

@@ -7,6 +7,6 @@
 		<dcterms:description>Greek vases in the Havard Art Museums</dcterms:description>
 		<dcterms:publisher>Harvard Art Museums</dcterms:publisher>
 		<dcterms:license rdf:resource="http://www.harvardartmuseums.org/terms-of-use"/>
-		<void:dataDump rdf:resource="http://18.209.35.196/rdf/harvard.rdf"/>
+		<void:dataDump rdf:resource="https://kerameikos.org/rdf/harvard.rdf"/>
 	</void:Dataset>
 </rdf:RDF>

@@ -12,6 +12,6 @@
         <dcterms:publisher>The University of Reading</dcterms:publisher>
         <dcterms:license rdf:resource="http://www.reading.ac.uk/Ure/collection/photo.php"/>
         <dcterms:rights rdf:resource="http://www.reading.ac.uk/Ure/info/copyright.php"/>
-        <void:dataDump rdf:resource="http://18.209.35.196/rdf/ure.rdf"/>
+        <void:dataDump rdf:resource="https://kerameikos.org/rdf/ure.rdf"/>
     </void:Dataset>
 </rdf:RDF>

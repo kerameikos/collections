@@ -6,6 +6,6 @@
         <dcterms:description>Greek vases of the J. Paul Getty Museum</dcterms:description>
         <dcterms:publisher>The J. Paul Getty Trust</dcterms:publisher>
         <dcterms:rights rdf:resource="https://rightsstatements.org/vocab/NoC-US/1.0/" />		
-        <void:dataDump rdf:resource="http://18.209.35.196/rdf/getty.rdf"/>
+        <void:dataDump rdf:resource="https://kerameikos.org/rdf/getty.rdf"/>
     </void:Dataset>
 </rdf:RDF>

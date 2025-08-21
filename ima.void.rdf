@@ -7,7 +7,7 @@
 		<dcterms:description>Greek vases in the Indianapolis Museum of Art</dcterms:description>
 		<dcterms:publisher>Indianapolis Museum of Art at Newfields</dcterms:publisher>
 		<dcterms:license rdf:resource="http://rightsstatements.org/vocab/NoC-US/1.0/"/>
-		<void:dataDump rdf:resource="http://18.209.35.196/rdf/ima.rdf"/>
+		<void:dataDump rdf:resource="https://kerameikos.org/rdf/ima.rdf"/>
 	</void:Dataset>
 </rdf:RDF>
 
