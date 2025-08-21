@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:void="http://rdfs.org/ns/void#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:nm="http://nomisma.org/id/">
+	<void:Dataset rdf:about="https://discovernewfields.org/">
+		<dcterms:title>Indianapolis Musem of Art at Newfields</dcterms:title>
+		<dcterms:description>Greek vases in the Indianapolis Museum of Art</dcterms:description>
+		<dcterms:publisher>Indianapolis Museum of Art at Newfields</dcterms:publisher>
+		<dcterms:license rdf:resource="http://rightsstatements.org/vocab/NoC-US/1.0/"/>
+		<void:dataDump rdf:resource="http://18.209.35.196/rdf/ima.rdf"/>
+	</void:Dataset>
+</rdf:RDF>
+

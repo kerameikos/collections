@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:void="http://rdfs.org/ns/void#" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oa="http://www.w3.org/ns/oa#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+    <void:Dataset rdf:about="http://uremuseum.org/">
+        <dcterms:title xml:lang="en">Ure Museum of Greek Archaeology</dcterms:title>
+        <dcterms:description xml:lang="en">The Ure Museum of Greek Archaeology, owned by the University of Reading and an integral part of the Department of Classics, is
+            recognised as the fourth largest collection of Greek ceramics in Britain. The collection primarily consists of material from the Greek and
+            Greco-Roman civilisations of the Mediterranean, most notably Greek and Etruscan ceramics and terracottas. Other artifacts include prehistoric
+            pottery, as well as metal and stone artifacts of Greek and Roman date. There is also an important collection of Egyptian antiquities, ranging from
+            the Pre-dynastic to the Roman period.</dcterms:description>
+        <dcterms:publisher>The University of Reading</dcterms:publisher>
+        <dcterms:license rdf:resource="http://www.reading.ac.uk/Ure/collection/photo.php"/>
+        <dcterms:rights rdf:resource="http://www.reading.ac.uk/Ure/info/copyright.php"/>
+        <void:dataDump rdf:resource="http://18.209.35.196/rdf/ure.rdf"/>
+    </void:Dataset>
+</rdf:RDF>

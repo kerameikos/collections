@@ -1,0 +1,4516 @@
+{"objects": [
+    {"2554": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/2554",
+        "type": "HumanMadeObject",
+        "_label": "small red-figure lekythos",
+        "classified_as": [
+            {
+                "id": "http://vocab.getty.edu/aat/300133025",
+                "type": "Type",
+                "_label": "works of art"
+            },
+            {
+                "id": "http://vocab.getty.edu/aat/300047090",
+                "type": "Type",
+                "_label": "sculpture (visual works)"
+            },
+            {
+                "id": "http://vocab.getty.edu/aat/300264937",
+                "type": "Type",
+                "_label": "lekythoi"
+            }
+        ],
+        "identified_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/2554/irn",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Collections Database Number for the Object",
+                "content": 2554,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404621",
+                    "type": "Type",
+                    "_label": "repository numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/2554/accession-number",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Accession Number for the Object",
+                "content": "70.99.4",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300312355",
+                    "type": "Type",
+                    "_label": "accession numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/2554/old-accession-number/1",
+                "type": "Identifier",
+                "_label": "Identifier Assigned to the Object by IMA at Newfields Prior to Acquisition",
+                "content": "TR8528/2",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404626",
+                    "type": "Type",
+                    "_label": "identification numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/2554/title",
+                "type": "Name",
+                "_label": "Primary Title for the Object",
+                "content": "small red-figure lekythos",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404670",
+                    "type": "Type",
+                    "_label": "preferred terms"
+                }]
+            }
+        ],
+        "shows": [{
+            "id": "https://data.discovernewfields.org/object/2554/VisualItem1",
+            "type": "VisualItem",
+            "style": [{
+                "id": "http://vocab.getty.edu/aat/300020201",
+                "type": "Type",
+                "_label": "Red-figure"
+            }]
+        }],
+        "technique": [{
+            "id": "http://vocab.getty.edu/aat/300387208",
+            "type": "Type",
+            "_label": "red-figure vase painting (image-making)"
+        }],
+        "made_of": [{
+            "id": "http://vocab.getty.edu/aat/300010669",
+            "type": "Material",
+            "_label": "Material of Which the Object is Composed",
+            "content": "terra-cotta"
+        }],
+        "produced_by": {
+            "id": "https://data.discovernewfields.org/object/2554/production",
+            "type": "Production",
+            "_label": "Production of the Object",
+            "carried_out_by": [{
+                "id": "https://data.discovernewfields.org/thesauri/culture/greek",
+                "type": "Actor",
+                "_label": "Greek"
+            }],
+            "timespan": {
+                "id": "https://data.discovernewfields.org/object/2554/production/timespan",
+                "type": "TimeSpan",
+                "_label": "date unknown"
+            }
+        },
+        "dimension": [
+            {
+                "id": "https://data.discovernewfields.org/object/2554/dimension-1/height",
+                "type": "Dimension",
+                "_label": "Dimensions for the Object",
+                "value": 4,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300055644",
+                    "type": "Type",
+                    "_label": "height"
+                }],
+                "unit": {
+                    "id": "http://vocab.getty.edu/aat/300379100",
+                    "type": "Type",
+                    "_label": "inches"
+                }
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/2554/dimension-1/diameter",
+                "type": "Dimension",
+                "_label": "Dimensions for the Object",
+                "value": 1.0625,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300055624",
+                    "type": "Type",
+                    "_label": "diameter"
+                }],
+                "unit": {
+                    "id": "http://vocab.getty.edu/aat/300379100",
+                    "type": "Type",
+                    "_label": "inches"
+                }
+            }
+        ],
+        "current_owner": {
+            "id": "http://vocab.getty.edu/ulan/500300517",
+            "type": "Group",
+            "_label": "Indianapolis Museum of Art at Newfields",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300312281",
+                "type": "Type",
+                "_label": "museums (institutions)"
+            }],
+            "acquired_title_through": [{
+                "id": "https://data.discovernewfields.org/object/2554/IMA-acquisition",
+                "type": "Acquisition",
+                "_label": "IMA at Newfields Acquisition of the Object",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300157782",
+                    "type": "Type",
+                    "_label": "acquisition (collections management)"
+                }],
+                "took_place_at": [{
+                    "id": "http://vocab.getty.edu/tgn/7012924",
+                    "type": "Place",
+                    "_label": "Indianapolis, Indiana"
+                }],
+                "timespan": {
+                    "id": "https://data.discovernewfields.org/object/2554/IMA-acquisition/timespan",
+                    "type": "TimeSpan",
+                    "_label": "1970-12-01",
+                    "begin_of_the_begin": "1970-12-01T00:00:00",
+                    "end_of_the_end": "1970-12-01T00:00:00"
+                }
+            }]
+        },
+        "member_of": [{
+            "id": "https://data.discovernewfields.org/collection/9042",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Classical Art Department",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+            }]
+        }],
+        "current_location": {
+            "id": "https://data.discovernewfields.org/thesauri/location/storage",
+            "type": "Place",
+            "_label": "IMA Storage"
+        },
+        "referred_to_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/2554/credit-line",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Credit Line for the Object",
+                "content": "Gift of Dr. and Mrs. F.E. Carrel",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300026687",
+                        "type": "Type",
+                        "_label": "acknowledgments"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/2554/provenance-statement",
+                "type": "LinguisticObject",
+                "_label": "IMA Provenance Statement about the Object",
+                "content": "Dr and Mrs. F.E. Carrel; presented to the IMA (1970)",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055863",
+                        "type": "Type",
+                        "_label": "provenance (history of ownership)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/2554/dimension-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Dimensions of the Object",
+                "content": "4 x 1-1/16 (diam.) in.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300266036",
+                        "type": "Type",
+                        "_label": "dimensions"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/2554/materials-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Materials of Which the Object is Composed",
+                "content": "painted ceramic",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300010358",
+                        "type": "Type",
+                        "_label": "materials (substances)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/2554/description",
+                "type": "LinguisticObject",
+                "_label": "Description of the Object",
+                "content": "small reddish ceramic vase with black painted decoration, narrow neck and one handle",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300411780",
+                        "type": "Type",
+                        "_label": "descriptions (documents)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/2554/rights-statement",
+                "type": "LinguisticObject",
+                "_label": "Rights Statement",
+                "content": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "type": "LinguisticObject",
+                "_label": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            }
+        ],
+        "subject_of": [{
+            "id": "http://collection.imamuseum.org/artwork/17054/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+                {
+                    "id": "http://vocab/getty.edu/aat/300264578",
+                    "type": "Type",
+                    "_label": "Web pages (documents)"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300266277",
+                    "type": "Type",
+                    "_label": "home pages"
+                }
+            ],
+            "format": "text/html"
+        }],
+        "representation": [
+            {
+                "id": "http://collection.imamuseum.org/artwork/17054/0_full.jpg",
+                "type": "VisualItem",
+                "_label": "Profile",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/17054/1_full.jpg",
+                "type": "VisualItem",
+                "_label": "Bottom",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            }
+        ]
+    }},
+    {"10582": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/10582",
+        "type": "HumanMadeObject",
+        "_label": "White-Ground Lekythos: Mistress and Servant",
+        "classified_as": [
+            {
+                "id": "http://vocab.getty.edu/aat/300133025",
+                "type": "Type",
+                "_label": "works of art"
+            },
+            {
+                "id": "http://vocab.getty.edu/aat/300047090",
+                "type": "Type",
+                "_label": "sculpture (visual works)"
+            },
+            {
+                "id": "http://vocab.getty.edu/aat/300264937",
+                "type": "Type",
+                "_label": "lekythoi"
+            }
+        ],
+        "identified_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/10582/irn",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Collections Database Number for the Object",
+                "content": 10582,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404621",
+                    "type": "Type",
+                    "_label": "repository numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/10582/accession-number",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Accession Number for the Object",
+                "content": "47.38",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300312355",
+                    "type": "Type",
+                    "_label": "accession numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/10582/title",
+                "type": "Name",
+                "_label": "Primary Title for the Object",
+                "content": "White-Ground Lekythos: Mistress and Servant",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404670",
+                    "type": "Type",
+                    "_label": "preferred terms"
+                }]
+            }
+        ],
+        "made_of": [{
+            "id": "http://vocab.getty.edu/aat/300010669",
+            "type": "Material",
+            "_label": "Material of Which the Object is Composed",
+            "content": "terra-cotta"
+        }],
+        "technique": [{
+            "id": "http://vocab.getty.edu/aat/300020204",
+            "type": "Type",
+            "_label": "White ground"
+        }],
+        "produced_by": {
+            "id": "https://data.discovernewfields.org/object/10582/production",
+            "type": "Production",
+            "_label": "Production of the Object",
+            "carried_out_by": [{
+                "id": "http://vocab.getty.edu/ulan/500015692",
+                "type": "Actor",
+                "_label": "Painter of Athens 1826"
+            }],
+            "took_place_at": [{
+                "id": "http://vocab.getty.edu/tgn/7001393",
+                "type": "Place",
+                "_label": "Athens",
+                "classified_as": [{
+                    "type": "Type",
+                    "id": "http://vocab.getty.edu/aat/300008389",
+                    "_label": "cities"
+                }]
+            }],
+            "timespan": {
+                "id": "https://data.discovernewfields.org/object/10582/production/timespan",
+                "type": "TimeSpan",
+                "_label": "about 460-450 B.C.E.",
+                "begin_of_the_begin": "-0459-01-01T00:00:00",
+                "end_of_the_end": "-0449-12-31T00:00:00"
+            }
+        },
+        "dimension": [{
+            "id": "https://data.discovernewfields.org/object/10582/dimension-1/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 8.25,
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+            }]
+        }],
+        "current_owner": {
+            "id": "http://vocab.getty.edu/ulan/500300517",
+            "type": "Group",
+            "_label": "Indianapolis Museum of Art at Newfields",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300312281",
+                "type": "Type",
+                "_label": "museums (institutions)"
+            }],
+            "acquired_title_through": [{
+                "id": "https://data.discovernewfields.org/object/10582/IMA-acquisition",
+                "type": "Acquisition",
+                "_label": "IMA at Newfields Acquisition of the Object",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300157782",
+                    "type": "Type",
+                    "_label": "acquisition (collections management)"
+                }],
+                "took_place_at": [{
+                    "id": "http://vocab.getty.edu/tgn/7012924",
+                    "type": "Place",
+                    "_label": "Indianapolis, Indiana"
+                }]
+            }]
+        },
+        "member_of": [{
+            "id": "https://data.discovernewfields.org/collection/9042",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Classical Art Department",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+            }]
+        }],
+        "current_location": {
+            "id": "https://data.discovernewfields.org/thesauri/location/K312",
+            "type": "Place",
+            "_label": "Leah and Charles Redish Gallery",
+            "clasified_as": [{
+                "id": "http://vocab.getty.edu/aat/300240057",
+                "type": "Type",
+                "_label": "galleries (display spaces)"
+            }]
+        },
+        "referred_to_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/10582/credit-line",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Credit Line for the Object",
+                "content": "Gift of Mr. and Mrs. Eli Lilly",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300026687",
+                        "type": "Type",
+                        "_label": "acknowledgments"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/10582/dimension-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Dimensions of the Object",
+                "content": "H: 8-1/4 in.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300266036",
+                        "type": "Type",
+                        "_label": "dimensions"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/10582/materials-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Materials of Which the Object is Composed",
+                "content": "earthenware with painted decoration",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300010358",
+                        "type": "Type",
+                        "_label": "materials (substances)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/10582/creation-notes",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Creation Notes about the Object",
+                "content": "Artist: Painter of Athens 1826",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300027200",
+                        "type": "Type",
+                        "_label": "notes (documents)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/10582/rights-statement",
+                "type": "LinguisticObject",
+                "_label": "Rights Statement",
+                "content": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "type": "LinguisticObject",
+                "_label": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            }
+        ],
+        "subject_of": [{
+            "id": "http://collection.imamuseum.org/artwork/31723/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+                {
+                    "id": "http://vocab/getty.edu/aat/300264578",
+                    "type": "Type",
+                    "_label": "Web pages (documents)"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300266277",
+                    "type": "Type",
+                    "_label": "home pages"
+                }
+            ],
+            "format": "text/html"
+        }],
+        "representation": [
+            {
+                "id": "http://collection.imamuseum.org/artwork/31723/0_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31723/1_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31723/2_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31723/3_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            }
+        ]
+    }},
+    {"11714": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/11714",
+        "type": "HumanMadeObject",
+        "_label": "Black-Figure Neck Amphora",
+        "classified_as": [{
+            "id": "http://vocab.getty.edu/aat/300198850",
+            "type": "Type",
+            "_label": "neck amphorae"
+        }],
+        "identified_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/11714/irn",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Collections Database Number for the Object",
+                "content": 11714,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404621",
+                    "type": "Type",
+                    "_label": "repository numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/11714/accession-number",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Accession Number for the Object",
+                "content": "47.42",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300312355",
+                    "type": "Type",
+                    "_label": "accession numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/11714/title",
+                "type": "Name",
+                "_label": "Primary Title for the Object",
+                "content": "Black-Figure Neck Amphora",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404670",
+                    "type": "Type",
+                    "_label": "preferred terms"
+                }]
+            }
+        ],
+        "shows": [{
+            "id": "https://data.discovernewfields.org/object/2554/VisualItem1",
+            "type": "VisualItem",
+            "style": [{
+                "id": "http://vocab.getty.edu/aat/300020195",
+                "type": "Type",
+                "_label": "Black-figure"
+            }]
+        }],
+        "technique": [{
+            "id": "http://vocab.getty.edu/aat/300387209",
+            "type": "Type",
+            "_label": "black-figure vase painting (image-making)"
+        }],
+        "made_of": [{
+            "id": "http://vocab.getty.edu/aat/300010669",
+            "type": "Material",
+            "_label": "Material of Which the Object is Composed",
+            "content": "terra-cotta"
+        }],
+        "produced_by": {
+            "id": "https://data.discovernewfields.org/object/11714/production",
+            "type": "Production",
+            "_label": "Production of the Object",
+            "carried_out_by": [{
+                "id": "http://vocab.getty.edu/ulan/500003458",
+                "type": "Actor",
+                "_label": "Antimenes Painter"
+            }],
+            "took_place_at": [{
+                "id": "http://vocab.getty.edu/tgn/7001393",
+                "type": "Place",
+                "_label": "Athens",
+                "classified_as": [{
+                    "type": "Type",
+                    "id": "http://vocab.getty.edu/aat/300008389",
+                    "_label": "cities"
+                }]
+            }],
+            "timespan": {
+                "id": "https://data.discovernewfields.org/object/11714/production/timespan",
+                "type": "TimeSpan",
+                "_label": "about 520-500 B.C.E.",
+                "begin_of_the_begin": "-0519-01-01T00:00:00",
+                "end_of_the_end": "-0499-12-31T00:00:00"
+            }
+        },
+        "dimension": [{
+            "id": "https://data.discovernewfields.org/object/11714/dimension-1/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 17.5,
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+            }],
+            "unit": {
+                "id": "http://vocab.getty.edu/aat/300379100",
+                "type": "Type",
+                "_label": "inches"
+            }
+        }],
+        "current_owner": {
+            "id": "http://vocab.getty.edu/ulan/500300517",
+            "type": "Group",
+            "_label": "Indianapolis Museum of Art at Newfields",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300312281",
+                "type": "Type",
+                "_label": "museums (institutions)"
+            }],
+            "acquired_title_through": [{
+                "id": "https://data.discovernewfields.org/object/11714/IMA-acquisition",
+                "type": "Acquisition",
+                "_label": "IMA at Newfields Acquisition of the Object",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300157782",
+                    "type": "Type",
+                    "_label": "acquisition (collections management)"
+                }],
+                "took_place_at": [{
+                    "id": "http://vocab.getty.edu/tgn/7012924",
+                    "type": "Place",
+                    "_label": "Indianapolis, Indiana"
+                }],
+                "timespan": {
+                    "id": "https://data.discovernewfields.org/object/11714/IMA-acquisition/timespan",
+                    "type": "TimeSpan",
+                    "_label": "1947-02-18",
+                    "begin_of_the_begin": "1947-02-18T00:00:00",
+                    "end_of_the_end": "1947-02-18T00:00:00"
+                }
+            }]
+        },
+        "member_of": [{
+            "id": "https://data.discovernewfields.org/collection/9042",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Classical Art Department",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+            }]
+        }],
+        "current_location": {
+            "id": "https://data.discovernewfields.org/thesauri/location/K312",
+            "type": "Place",
+            "_label": "Leah and Charles Redish Gallery",
+            "clasified_as": [{
+                "id": "http://vocab.getty.edu/aat/300240057",
+                "type": "Type",
+                "_label": "galleries (display spaces)"
+            }]
+        },
+        "referred_to_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/11714/credit-line",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Credit Line for the Object",
+                "content": "Gift of Mr. & Mrs. Eli Lilly",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300026687",
+                        "type": "Type",
+                        "_label": "acknowledgments"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/11714/dimension-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Dimensions of the Object",
+                "content": "17-1/2 in.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300266036",
+                        "type": "Type",
+                        "_label": "dimensions"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/11714/materials-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Materials of Which the Object is Composed",
+                "content": "terra-cotta with white slip decoration",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300010358",
+                        "type": "Type",
+                        "_label": "materials (substances)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/11714/creation-notes",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Creation Notes about the Object",
+                "content": "Artist: Antimenes",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300027200",
+                        "type": "Type",
+                        "_label": "notes (documents)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/11714/rights-statement",
+                "type": "LinguisticObject",
+                "_label": "Rights Statement",
+                "content": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "type": "LinguisticObject",
+                "_label": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            }
+        ],
+        "subject_of": [{
+            "id": "http://collection.imamuseum.org/artwork/31725/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+                {
+                    "id": "http://vocab/getty.edu/aat/300264578",
+                    "type": "Type",
+                    "_label": "Web pages (documents)"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300266277",
+                    "type": "Type",
+                    "_label": "home pages"
+                }
+            ],
+            "format": "text/html"
+        }],
+        "representation": [
+            {
+                "id": "http://collection.imamuseum.org/artwork/31725/0_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31725/1_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31725/2_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31725/3_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            }
+        ]
+    }},
+    {"14330": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/14330",
+        "type": "HumanMadeObject",
+        "_label": "Red-Figure Hydria-Calpis: Hephaestus Returning to Mt. Olympus",
+        "classified_as": [{
+            "id": "http://vocab.getty.edu/aat/300198846",
+            "type": "Type",
+            "_label": "kalpis"
+        }],
+        "identified_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/14330/irn",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Collections Database Number for the Object",
+                "content": 14330,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404621",
+                    "type": "Type",
+                    "_label": "repository numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14330/accession-number",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Accession Number for the Object",
+                "content": "47.34",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300312355",
+                    "type": "Type",
+                    "_label": "accession numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14330/old-accession-number/1",
+                "type": "Identifier",
+                "_label": "Identifier Assigned to the Object by IMA at Newfields Prior to Acquisition",
+                "content": "TR4892/2",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404626",
+                    "type": "Type",
+                    "_label": "identification numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14330/title",
+                "type": "Name",
+                "_label": "Primary Title for the Object",
+                "content": "Red-Figure Hydria-Calpis: Hephaestus Returning to Mt. Olympus",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404670",
+                    "type": "Type",
+                    "_label": "preferred terms"
+                }]
+            }
+        ],
+        "shows": [{
+            "id": "https://data.discovernewfields.org/object/2554/VisualItem1",
+            "type": "VisualItem",
+            "style": [{
+                "id": "http://vocab.getty.edu/aat/300020201",
+                "type": "Type",
+                "_label": "Red-figure"
+            }]
+        }],
+        "technique": [{
+            "id": "http://vocab.getty.edu/aat/300387208",
+            "type": "Type",
+            "_label": "red-figure vase painting (image-making)"
+        }],
+        "made_of": [{
+            "id": "http://vocab.getty.edu/aat/300010669",
+            "type": "Material",
+            "_label": "Material of Which the Object is Composed",
+            "content": "terra-cotta"
+        }],
+        "produced_by": {
+            "id": "https://data.discovernewfields.org/object/14330/production",
+            "type": "Production",
+            "_label": "Production of the Object",
+            "carried_out_by": [{
+                "id": "http://vocab.getty.edu/ulan/500017517",
+                "type": "Actor",
+                "_label": "Agrigento Painter"
+            }],
+            "took_place_at": [{
+                "id": "http://vocab.getty.edu/tgn/7001393",
+                "type": "Place",
+                "_label": "Athens",
+                "classified_as": [{
+                    "type": "Type",
+                    "id": "http://vocab.getty.edu/aat/300008389",
+                    "_label": "cities"
+                }]
+            }],
+            "timespan": {
+                "id": "https://data.discovernewfields.org/object/14330/production/timespan",
+                "type": "TimeSpan",
+                "_label": "about 470 B.C.E.",
+                "begin_of_the_begin": "-0499-01-01T00:00:00",
+                "end_of_the_end": "-0429-12-31T00:00:00"
+            }
+        },
+        "dimension": [{
+            "id": "https://data.discovernewfields.org/object/14330/dimension-1/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 15,
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+            }],
+            "unit": {
+                "id": "http://vocab.getty.edu/aat/300379100",
+                "type": "Type",
+                "_label": "inches"
+            }
+        }],
+        "current_owner": {
+            "id": "http://vocab.getty.edu/ulan/500300517",
+            "type": "Group",
+            "_label": "Indianapolis Museum of Art at Newfields",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300312281",
+                "type": "Type",
+                "_label": "museums (institutions)"
+            }],
+            "acquired_title_through": [{
+                "id": "https://data.discovernewfields.org/object/14330/IMA-acquisition",
+                "type": "Acquisition",
+                "_label": "IMA at Newfields Acquisition of the Object",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300157782",
+                    "type": "Type",
+                    "_label": "acquisition (collections management)"
+                }],
+                "took_place_at": [{
+                    "id": "http://vocab.getty.edu/tgn/7012924",
+                    "type": "Place",
+                    "_label": "Indianapolis, Indiana"
+                }],
+                "timespan": {
+                    "id": "https://data.discovernewfields.org/object/14330/IMA-acquisition/timespan",
+                    "type": "TimeSpan",
+                    "_label": "1947-02-18",
+                    "begin_of_the_begin": "1947-02-18T00:00:00",
+                    "end_of_the_end": "1947-02-18T00:00:00"
+                }
+            }]
+        },
+        "member_of": [{
+            "id": "https://data.discovernewfields.org/collection/9042",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Classical Art Department",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+            }]
+        }],
+        "current_location": {
+            "id": "https://data.discovernewfields.org/thesauri/location/K312",
+            "type": "Place",
+            "_label": "Leah and Charles Redish Gallery",
+            "clasified_as": [{
+                "id": "http://vocab.getty.edu/aat/300240057",
+                "type": "Type",
+                "_label": "galleries (display spaces)"
+            }]
+        },
+        "referred_to_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/14330/credit-line",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Credit Line for the Object",
+                "content": "Gift of Mr. and Mrs. Eli Lilly",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300026687",
+                        "type": "Type",
+                        "_label": "acknowledgments"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14330/provenance-statement",
+                "type": "LinguisticObject",
+                "_label": "IMA Provenance Statement about the Object",
+                "content": "Vladimir G. Simkhovitch; Mr. and Mrs. Eli Lilly, Indianapolis, Indiana; given to the John Herron Art Institute, now the Indianapolis Museum of Art at Newfields in 1947.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055863",
+                        "type": "Type",
+                        "_label": "provenance (history of ownership)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14330/dimension-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Dimensions of the Object",
+                "content": "15 in.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300266036",
+                        "type": "Type",
+                        "_label": "dimensions"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14330/materials-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Materials of Which the Object is Composed",
+                "content": "terra-cotta",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300010358",
+                        "type": "Type",
+                        "_label": "materials (substances)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14330/description",
+                "type": "LinguisticObject",
+                "_label": "Description of the Object",
+                "content": "Red-figured hydria, band half way around on shoulder of vessel, band with darts just below it and bands on rim. Remaining parts black.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300411780",
+                        "type": "Type",
+                        "_label": "descriptions (documents)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14330/creation-notes",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Creation Notes about the Object",
+                "content": "Artist: Agrigento Painter",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300027200",
+                        "type": "Type",
+                        "_label": "notes (documents)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14330/rights-statement",
+                "type": "LinguisticObject",
+                "_label": "Rights Statement",
+                "content": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "type": "LinguisticObject",
+                "_label": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            }
+        ],
+        "subject_of": [{
+            "id": "http://collection.imamuseum.org/artwork/31719/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+                {
+                    "id": "http://vocab/getty.edu/aat/300264578",
+                    "type": "Type",
+                    "_label": "Web pages (documents)"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300266277",
+                    "type": "Type",
+                    "_label": "home pages"
+                }
+            ],
+            "format": "text/html"
+        }],
+        "representation": [
+            {
+                "id": "http://collection.imamuseum.org/artwork/31719/0_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31719/1_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31719/2_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31719/3_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31719/4_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31719/5_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31719/6_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31719/7_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31719/8_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31719/9_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31719/10_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            }
+        ]
+    }},
+    {"14571": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/14571",
+        "type": "HumanMadeObject",
+        "_label": "Black Figure Lekythos",
+        "classified_as": [{
+            "id": "http://vocab.getty.edu/aat/300264937",
+            "type": "Type",
+            "_label": "lekythoi"
+        }],
+        "identified_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/14571/irn",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Collections Database Number for the Object",
+                "content": 14571,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404621",
+                    "type": "Type",
+                    "_label": "repository numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14571/accession-number",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Accession Number for the Object",
+                "content": "20.166",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300312355",
+                    "type": "Type",
+                    "_label": "accession numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14571/old-accession-number/1",
+                "type": "Identifier",
+                "_label": "Identifier Assigned to the Object by IMA at Newfields Prior to Acquisition",
+                "content": "No TR number",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404626",
+                    "type": "Type",
+                    "_label": "identification numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14571/title",
+                "type": "Name",
+                "_label": "Primary Title for the Object",
+                "content": "Black Figure Lekythos",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404670",
+                    "type": "Type",
+                    "_label": "preferred terms"
+                }]
+            }
+        ],
+        "shows": [{
+            "id": "https://data.discovernewfields.org/object/2554/VisualItem1",
+            "type": "VisualItem",
+            "style": [{
+                "id": "http://vocab.getty.edu/aat/300020195",
+                "type": "Type",
+                "_label": "Black-figure"
+            }]
+        }],
+        "technique": [{
+            "id": "http://vocab.getty.edu/aat/300387209",
+            "type": "Type",
+            "_label": "black-figure vase painting (image-making)"
+        }],
+        "made_of": [{
+            "id": "http://vocab.getty.edu/aat/300010669",
+            "type": "Material",
+            "_label": "Material of Which the Object is Composed",
+            "content": "terra-cotta"
+        }],
+        "produced_by": {
+            "id": "https://data.discovernewfields.org/object/14571/production",
+            "type": "Production",
+            "_label": "Production of the Object",
+            "carried_out_by": [{
+                "id": "https://data.discovernewfields.org/thesauri/culture/greek",
+                "type": "Actor",
+                "_label": "Greek"
+            }],
+            "timespan": {
+                "id": "https://data.discovernewfields.org/object/14571/production/timespan",
+                "type": "TimeSpan",
+                "_label": "350 B.C.E.",
+                "begin_of_the_begin": "-0349-01-01T00:00:00",
+                "end_of_the_end": "-0349-12-31T00:00:00"
+            }
+        },
+        "dimension": [
+            {
+                "id": "https://data.discovernewfields.org/object/14571/dimension-1/height",
+                "type": "Dimension",
+                "_label": "Dimensions for the Object",
+                "value": 5,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300055644",
+                    "type": "Type",
+                    "_label": "height"
+                }],
+                "unit": {
+                    "id": "http://vocab.getty.edu/aat/300379100",
+                    "type": "Type",
+                    "_label": "inches"
+                }
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14571/dimension-1/diameter",
+                "type": "Dimension",
+                "_label": "Dimensions for the Object",
+                "value": 2,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300055624",
+                    "type": "Type",
+                    "_label": "diameter"
+                }],
+                "unit": {
+                    "id": "http://vocab.getty.edu/aat/300379100",
+                    "type": "Type",
+                    "_label": "inches"
+                }
+            }
+        ],
+        "current_owner": {
+            "id": "http://vocab.getty.edu/ulan/500300517",
+            "type": "Group",
+            "_label": "Indianapolis Museum of Art at Newfields",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300312281",
+                "type": "Type",
+                "_label": "museums (institutions)"
+            }],
+            "acquired_title_through": [{
+                "id": "https://data.discovernewfields.org/object/14571/IMA-acquisition",
+                "type": "Acquisition",
+                "_label": "IMA at Newfields Acquisition of the Object",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300157782",
+                    "type": "Type",
+                    "_label": "acquisition (collections management)"
+                }],
+                "took_place_at": [{
+                    "id": "http://vocab.getty.edu/tgn/7012924",
+                    "type": "Place",
+                    "_label": "Indianapolis, Indiana"
+                }]
+            }]
+        },
+        "member_of": [{
+            "id": "https://data.discovernewfields.org/collection/9042",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Classical Art Department",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+            }]
+        }],
+        "current_location": {
+            "id": "https://data.discovernewfields.org/thesauri/location/storage",
+            "type": "Place",
+            "_label": "IMA Storage"
+        },
+        "referred_to_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/14571/credit-line",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Credit Line for the Object",
+                "content": "Gift of Winant Johnson",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300026687",
+                        "type": "Type",
+                        "_label": "acknowledgments"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14571/provenance-statement",
+                "type": "LinguisticObject",
+                "_label": "IMA Provenance Statement about the Object",
+                "content": "Winant Johnston; presented to the IMA (1920)",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055863",
+                        "type": "Type",
+                        "_label": "provenance (history of ownership)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14571/dimension-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Dimensions of the Object",
+                "content": "5 x 2 (diam.) in.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300266036",
+                        "type": "Type",
+                        "_label": "dimensions"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14571/materials-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Materials of Which the Object is Composed",
+                "content": "painted ceramic",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300010358",
+                        "type": "Type",
+                        "_label": "materials (substances)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14571/description",
+                "type": "LinguisticObject",
+                "_label": "Description of the Object",
+                "content": "small vase with circular pedestal foot, body is roughly cone shaped- wider near the top, long narrow neck with rolled mouth; ceramic is reddish in color with black and blue painted decoration",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300411780",
+                        "type": "Type",
+                        "_label": "descriptions (documents)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/14571/rights-statement",
+                "type": "LinguisticObject",
+                "_label": "Rights Statement",
+                "content": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "type": "LinguisticObject",
+                "_label": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            }
+        ],
+        "subject_of": [{
+            "id": "http://collection.imamuseum.org/artwork/17228/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+                {
+                    "id": "http://vocab/getty.edu/aat/300264578",
+                    "type": "Type",
+                    "_label": "Web pages (documents)"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300266277",
+                    "type": "Type",
+                    "_label": "home pages"
+                }
+            ],
+            "format": "text/html"
+        }]
+    }},
+    {"16626": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/16626",
+        "type": "HumanMadeObject",
+        "_label": "Attic Red-Figure Lekythos: Zeus and Ganymede",
+        "classified_as": [
+            {
+                "id": "http://vocab.getty.edu/aat/300133025",
+                "type": "Type",
+                "_label": "works of art"
+            },
+            {
+                "id": "http://vocab.getty.edu/aat/300047090",
+                "type": "Type",
+                "_label": "sculpture (visual works)"
+            },
+            {
+                "id": "http://vocab.getty.edu/aat/300264937",
+                "type": "Type",
+                "_label": "lekythoi"
+            }
+        ],
+        "identified_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/16626/irn",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Collections Database Number for the Object",
+                "content": 16626,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404621",
+                    "type": "Type",
+                    "_label": "repository numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/16626/accession-number",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Accession Number for the Object",
+                "content": "47.35",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300312355",
+                    "type": "Type",
+                    "_label": "accession numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/16626/title",
+                "type": "Name",
+                "_label": "Primary Title for the Object",
+                "content": "Attic Red-Figure Lekythos: Zeus and Ganymede",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404670",
+                    "type": "Type",
+                    "_label": "preferred terms"
+                }]
+            }
+        ],
+        "shows": [{
+            "id": "https://data.discovernewfields.org/object/2554/VisualItem1",
+            "type": "VisualItem",
+            "style": [{
+                "id": "http://vocab.getty.edu/aat/300020201",
+                "type": "Type",
+                "_label": "Red-figure"
+            }]
+        }],
+        "technique": [{
+            "id": "http://vocab.getty.edu/aat/300387208",
+            "type": "Type",
+            "_label": "red-figure vase painting (image-making)"
+        }],
+        "made_of": [{
+            "id": "http://vocab.getty.edu/aat/300010669",
+            "type": "Material",
+            "_label": "Material of Which the Object is Composed",
+            "content": "terra-cotta"
+        }],
+        "produced_by": {
+            "id": "https://data.discovernewfields.org/object/16626/production",
+            "type": "Production",
+            "_label": "Production of the Object",
+            "carried_out_by": [{
+                "id": "http://vocab.getty.edu/ulan/500019489",
+                "type": "Actor",
+                "_label": "Achilles Painter"
+            }],
+            "took_place_at": [{
+                "id": "http://vocab.getty.edu/tgn/7001393",
+                "type": "Place",
+                "_label": "Athens",
+                "classified_as": [{
+                    "type": "Type",
+                    "id": "http://vocab.getty.edu/aat/300008389",
+                    "_label": "cities"
+                }]
+            }],
+            "timespan": {
+                "id": "https://data.discovernewfields.org/object/16626/production/timespan",
+                "type": "TimeSpan",
+                "_label": "about 460-420 B.C.E.",
+                "begin_of_the_begin": "-0459-01-01T00:00:00",
+                "end_of_the_end": "-0419-12-31T00:00:00"
+            }
+        },
+        "dimension": [{
+            "id": "https://data.discovernewfields.org/object/16626/dimension-1/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 15,
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+            }],
+            "unit": {
+                "id": "http://vocab.getty.edu/aat/300379100",
+                "type": "Type",
+                "_label": "inches"
+            }
+        }],
+        "current_owner": {
+            "id": "http://vocab.getty.edu/ulan/500300517",
+            "type": "Group",
+            "_label": "Indianapolis Museum of Art at Newfields",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300312281",
+                "type": "Type",
+                "_label": "museums (institutions)"
+            }],
+            "acquired_title_through": [{
+                "id": "https://data.discovernewfields.org/object/16626/IMA-acquisition",
+                "type": "Acquisition",
+                "_label": "IMA at Newfields Acquisition of the Object",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300157782",
+                    "type": "Type",
+                    "_label": "acquisition (collections management)"
+                }],
+                "took_place_at": [{
+                    "id": "http://vocab.getty.edu/tgn/7012924",
+                    "type": "Place",
+                    "_label": "Indianapolis, Indiana"
+                }]
+            }]
+        },
+        "member_of": [{
+            "id": "https://data.discovernewfields.org/collection/9042",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Classical Art Department",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+            }]
+        }],
+        "current_location": {
+            "id": "https://data.discovernewfields.org/thesauri/location/K312",
+            "type": "Place",
+            "_label": "Leah and Charles Redish Gallery",
+            "clasified_as": [{
+                "id": "http://vocab.getty.edu/aat/300240057",
+                "type": "Type",
+                "_label": "galleries (display spaces)"
+            }]
+        },
+        "referred_to_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/16626/credit-line",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Credit Line for the Object",
+                "content": "Gift of Mr. & Mrs. Eli Lilly",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300026687",
+                        "type": "Type",
+                        "_label": "acknowledgments"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/16626/dimension-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Dimensions of the Object",
+                "content": "H: 15 in.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300266036",
+                        "type": "Type",
+                        "_label": "dimensions"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/16626/materials-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Materials of Which the Object is Composed",
+                "content": "terra-cotta",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300010358",
+                        "type": "Type",
+                        "_label": "materials (substances)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/16626/creation-notes",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Creation Notes about the Object",
+                "content": "Artist: Manner of Achilles Painter",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300027200",
+                        "type": "Type",
+                        "_label": "notes (documents)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/16626/rights-statement",
+                "type": "LinguisticObject",
+                "_label": "Rights Statement",
+                "content": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "type": "LinguisticObject",
+                "_label": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            }
+        ],
+        "subject_of": [{
+            "id": "http://collection.imamuseum.org/artwork/31720/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+                {
+                    "id": "http://vocab/getty.edu/aat/300264578",
+                    "type": "Type",
+                    "_label": "Web pages (documents)"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300266277",
+                    "type": "Type",
+                    "_label": "home pages"
+                }
+            ],
+            "format": "text/html"
+        }],
+        "representation": [{
+            "id": "http://collection.imamuseum.org/artwork/31720/0_full.jpg",
+            "type": "VisualItem",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300215302",
+                "type": "Type",
+                "_label": "Digital Image"
+            }],
+            "format": "image/jpeg"
+        }]
+    }},
+    {"16704": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/16704",
+        "type": "HumanMadeObject",
+        "_label": "Apulian Lekanis: Head of a Woman and Winged Genie",
+        "classified_as": [
+            {
+                "id": "http://vocab.getty.edu/aat/300133025",
+                "type": "Type",
+                "_label": "works of art"
+            },
+            {
+                "id": "http://vocab.getty.edu/aat/300047090",
+                "type": "Type",
+                "_label": "sculpture (visual works)"
+            },
+            {
+                "id": "http://vocab.getty.edu/aat/300198862",
+                "type": "Type",
+                "_label": "lekanai"
+            }
+        ],
+        "identified_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/16704/irn",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Collections Database Number for the Object",
+                "content": 16704,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404621",
+                    "type": "Type",
+                    "_label": "repository numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/16704/accession-number",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Accession Number for the Object",
+                "content": "57.131A-B",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300312355",
+                    "type": "Type",
+                    "_label": "accession numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/16704/title",
+                "type": "Name",
+                "_label": "Primary Title for the Object",
+                "content": "Apulian Lekanis: Head of a Woman and Winged Genie",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404670",
+                    "type": "Type",
+                    "_label": "preferred terms"
+                }]
+            }
+        ],
+        "shows": [{
+            "id": "https://data.discovernewfields.org/object/2554/VisualItem1",
+            "type": "VisualItem",
+            "style": [{
+                "id": "http://vocab.getty.edu/aat/300020201",
+                "type": "Type",
+                "_label": "Red-figure"
+            }]
+        }],
+        "technique": [{
+            "id": "http://vocab.getty.edu/aat/300387208",
+            "type": "Type",
+            "_label": "red-figure vase painting (image-making)"
+        }],
+        "made_of": [{
+            "id": "http://vocab.getty.edu/aat/300010669",
+            "type": "Material",
+            "_label": "Material of Which the Object is Composed",
+            "content": "terra-cotta"
+        }],
+        "produced_by": {
+            "id": "https://data.discovernewfields.org/object/16704/production",
+            "type": "Production",
+            "_label": "Production of the Object",
+            "took_place_at": [{
+                "id": "http://vocab.getty.edu/tgn/7010380",
+                "type": "Place",
+                "_label": "Apulia"
+            }],
+            "timespan": {
+                "id": "https://data.discovernewfields.org/object/16704/production/timespan",
+                "type": "TimeSpan",
+                "_label": "late 4th century B.C.E.",
+                "begin_of_the_begin": "-0399-01-01T00:00:00",
+                "end_of_the_end": "-0369-12-31T00:00:00"
+            }
+        },
+        "dimension": [{
+            "id": "https://data.discovernewfields.org/object/16704/dimension-1/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 6.125,
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+            }],
+            "unit": {
+                "id": "http://vocab.getty.edu/aat/300379100",
+                "type": "Type",
+                "_label": "inches"
+            }
+        }],
+        "current_owner": {
+            "id": "http://vocab.getty.edu/ulan/500300517",
+            "type": "Group",
+            "_label": "Indianapolis Museum of Art at Newfields",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300312281",
+                "type": "Type",
+                "_label": "museums (institutions)"
+            }],
+            "acquired_title_through": [{
+                "id": "https://data.discovernewfields.org/object/16704/IMA-acquisition",
+                "type": "Acquisition",
+                "_label": "IMA at Newfields Acquisition of the Object",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300157782",
+                    "type": "Type",
+                    "_label": "acquisition (collections management)"
+                }],
+                "took_place_at": [{
+                    "id": "http://vocab.getty.edu/tgn/7012924",
+                    "type": "Place",
+                    "_label": "Indianapolis, Indiana"
+                }]
+            }]
+        },
+        "member_of": [{
+            "id": "https://data.discovernewfields.org/collection/9042",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Classical Art Department",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+            }]
+        }],
+        "current_location": {
+            "id": "https://data.discovernewfields.org/thesauri/location/K312",
+            "type": "Place",
+            "_label": "Leah and Charles Redish Gallery",
+            "clasified_as": [{
+                "id": "http://vocab.getty.edu/aat/300240057",
+                "type": "Type",
+                "_label": "galleries (display spaces)"
+            }]
+        },
+        "referred_to_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/16704/credit-line",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Credit Line for the Object",
+                "content": "Gift of Mrs. Henry E. Perry",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300026687",
+                        "type": "Type",
+                        "_label": "acknowledgments"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/16704/dimension-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Dimensions of the Object",
+                "content": "H: 6-1/8 in.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300266036",
+                        "type": "Type",
+                        "_label": "dimensions"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/16704/materials-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Materials of Which the Object is Composed",
+                "content": "terra-cotta",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300010358",
+                        "type": "Type",
+                        "_label": "materials (substances)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/16704/rights-statement",
+                "type": "LinguisticObject",
+                "_label": "Rights Statement",
+                "content": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "type": "LinguisticObject",
+                "_label": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            }
+        ],
+        "subject_of": [{
+            "id": "http://collection.imamuseum.org/artwork/31729/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+                {
+                    "id": "http://vocab/getty.edu/aat/300264578",
+                    "type": "Type",
+                    "_label": "Web pages (documents)"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300266277",
+                    "type": "Type",
+                    "_label": "home pages"
+                }
+            ],
+            "format": "text/html"
+        }],
+        "representation": [
+            {
+                "id": "http://collection.imamuseum.org/artwork/31729/0_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31729/1_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31729/2_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31729/3_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            }
+        ]
+    }},
+    {"19671": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/19671",
+        "type": "HumanMadeObject",
+        "_label": "Attic Red-Figure Kylix: Hetaira Drawing Water from a Pithos",
+        "classified_as": [{
+            "id": "http://vocab.getty.edu/aat/300198842",
+            "type": "Type",
+            "_label": "kylix"
+        }],
+        "identified_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/19671/irn",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Collections Database Number for the Object",
+                "content": 19671,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404621",
+                    "type": "Type",
+                    "_label": "repository numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/19671/accession-number",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Accession Number for the Object",
+                "content": "47.37",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300312355",
+                    "type": "Type",
+                    "_label": "accession numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/19671/title",
+                "type": "Name",
+                "_label": "Primary Title for the Object",
+                "content": "Attic Red-Figure Kylix: Hetaira Drawing Water from a Pithos",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404670",
+                    "type": "Type",
+                    "_label": "preferred terms"
+                }]
+            }
+        ],
+        "shows": [{
+            "id": "https://data.discovernewfields.org/object/2554/VisualItem1",
+            "type": "VisualItem",
+            "style": [{
+                "id": "http://vocab.getty.edu/aat/300020201",
+                "type": "Type",
+                "_label": "Red-figure"
+            }]
+        }],
+        "technique": [{
+            "id": "http://vocab.getty.edu/aat/300387208",
+            "type": "Type",
+            "_label": "red-figure vase painting (image-making)"
+        }],
+        "made_of": [{
+            "id": "http://vocab.getty.edu/aat/300010669",
+            "type": "Material",
+            "_label": "Material of Which the Object is Composed",
+            "content": "terra-cotta"
+        }],
+        "produced_by": {
+            "id": "https://data.discovernewfields.org/object/19671/production",
+            "type": "Production",
+            "_label": "Production of the Object",
+            "took_place_at": [{
+                "id": "http://vocab.getty.edu/tgn/7001393",
+                "type": "Place",
+                "_label": "Athens",
+                "classified_as": [{
+                    "type": "Type",
+                    "id": "http://vocab.getty.edu/aat/300008389",
+                    "_label": "cities"
+                }]
+            }],
+            "carried_out_by": [{
+                "id": "https://data.discovernewfields.org/thesauri/culture/greek",
+                "type": "Actor",
+                "_label": "Greek"
+            }],
+            "timespan": {
+                "id": "https://data.discovernewfields.org/object/19671/production/timespan",
+                "type": "TimeSpan",
+                "_label": "about 500 B.C.E.",
+                "begin_of_the_begin": "-0550-01-01T00:00:00",
+                "end_of_the_end": "-0450-12-31T00:00:00"
+            }
+        },
+        "dimension": [
+            {
+                "id": "https://data.discovernewfields.org/object/19671/dimension-1/height",
+                "type": "Dimension",
+                "_label": "Dimensions for the Object",
+                "value": 3,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300055644",
+                    "type": "Type",
+                    "_label": "height"
+                }],
+                "unit": {
+                    "id": "http://vocab.getty.edu/aat/300379100",
+                    "type": "Type",
+                    "_label": "inches"
+                }
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/19671/dimension-1/diameter",
+                "type": "Dimension",
+                "_label": "Dimensions for the Object",
+                "value": 7.25,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300055624",
+                    "type": "Type",
+                    "_label": "diameter"
+                }],
+                "unit": {
+                    "id": "http://vocab.getty.edu/aat/300379100",
+                    "type": "Type",
+                    "_label": "inches"
+                }
+            }
+        ],
+        "current_owner": {
+            "id": "http://vocab.getty.edu/ulan/500300517",
+            "type": "Group",
+            "_label": "Indianapolis Museum of Art at Newfields",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300312281",
+                "type": "Type",
+                "_label": "museums (institutions)"
+            }],
+            "acquired_title_through": [{
+                "id": "https://data.discovernewfields.org/object/19671/IMA-acquisition",
+                "type": "Acquisition",
+                "_label": "IMA at Newfields Acquisition of the Object",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300157782",
+                    "type": "Type",
+                    "_label": "acquisition (collections management)"
+                }],
+                "took_place_at": [{
+                    "id": "http://vocab.getty.edu/tgn/7012924",
+                    "type": "Place",
+                    "_label": "Indianapolis, Indiana"
+                }]
+            }]
+        },
+        "member_of": [{
+            "id": "https://data.discovernewfields.org/collection/9042",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Classical Art Department",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+            }]
+        }],
+        "current_location": {
+            "id": "https://data.discovernewfields.org/thesauri/location/K312",
+            "type": "Place",
+            "_label": "Leah and Charles Redish Gallery",
+            "clasified_as": [{
+                "id": "http://vocab.getty.edu/aat/300240057",
+                "type": "Type",
+                "_label": "galleries (display spaces)"
+            }]
+        },
+        "referred_to_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/19671/credit-line",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Credit Line for the Object",
+                "content": "Gift of Mr. and Mrs. Eli Lilly",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300026687",
+                        "type": "Type",
+                        "_label": "acknowledgments"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/19671/provenance-statement",
+                "type": "LinguisticObject",
+                "_label": "IMA Provenance Statement about the Object",
+                "content": "Arthur Sambon [1867-1947], Paris; Sale (Galerie Georges Petit, Paris) in 1914.{1} (Joseph Brummer Gallery, New York); Eli Lilly [1885-1977], Indianapolis; given to the Indianapolis Museum of Art in 1947 (47.37).\n\n{1} Galerie Georges Petit, Paris, Objets d\u0092art et de haute curiosité de l\u0092antiquité, du moyen age, de la renaissance, et autres, 25-28 May 1914, lot 100.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055863",
+                        "type": "Type",
+                        "_label": "provenance (history of ownership)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/19671/dimension-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Dimensions of the Object",
+                "content": "3 x 7-1/4 (diam.) in.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300266036",
+                        "type": "Type",
+                        "_label": "dimensions"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/19671/materials-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Materials of Which the Object is Composed",
+                "content": "earthenware with slip decoration",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300010358",
+                        "type": "Type",
+                        "_label": "materials (substances)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/19671/description",
+                "type": "LinguisticObject",
+                "_label": "Description of the Object",
+                "content": "Red-figure Kylix, inside in a circle a nude woman is kneeling by a storage jar.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300411780",
+                        "type": "Type",
+                        "_label": "descriptions (documents)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/19671/creation-notes",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Creation Notes about the Object",
+                "content": "Artist: Chaire Painter\nAthensa",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300027200",
+                        "type": "Type",
+                        "_label": "notes (documents)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/19671/rights-statement",
+                "type": "LinguisticObject",
+                "_label": "Rights Statement",
+                "content": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "type": "LinguisticObject",
+                "_label": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            }
+        ],
+        "subject_of": [{
+            "id": "http://collection.imamuseum.org/artwork/31722/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+                {
+                    "id": "http://vocab/getty.edu/aat/300264578",
+                    "type": "Type",
+                    "_label": "Web pages (documents)"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300266277",
+                    "type": "Type",
+                    "_label": "home pages"
+                }
+            ],
+            "format": "text/html"
+        }],
+        "representation": [
+            {
+                "id": "http://collection.imamuseum.org/artwork/31722/0_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31722/1_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31722/2_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31722/3_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31722/4_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31722/5_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31722/6_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31722/7_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31722/8_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31722/9_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31722/10_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            }
+        ]
+    }},
+    {"24750": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/24750",
+        "type": "HumanMadeObject",
+        "_label": "Black-Figure Hydria: Departing Warriors",
+        "classified_as": [{
+            "id": "http://vocab.getty.edu/aat/300198844",
+            "type": "Type",
+            "_label": "hydriai"
+        }],
+        "identified_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/24750/irn",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Collections Database Number for the Object",
+                "content": 24750,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404621",
+                    "type": "Type",
+                    "_label": "repository numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/24750/accession-number",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Accession Number for the Object",
+                "content": "47.43",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300312355",
+                    "type": "Type",
+                    "_label": "accession numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/24750/title",
+                "type": "Name",
+                "_label": "Primary Title for the Object",
+                "content": "Black-Figure Hydria: Departing Warriors",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404670",
+                    "type": "Type",
+                    "_label": "preferred terms"
+                }]
+            }
+        ],
+        "shows": [{
+            "id": "https://data.discovernewfields.org/object/2554/VisualItem1",
+            "type": "VisualItem",
+            "style": [{
+                "id": "http://vocab.getty.edu/aat/300020195",
+                "type": "Type",
+                "_label": "Black-figure"
+            }]
+        }],
+        "technique": [{
+            "id": "http://vocab.getty.edu/aat/300387209",
+            "type": "Type",
+            "_label": "black-figure vase painting (image-making)"
+        }],
+        "made_of": [{
+            "id": "http://vocab.getty.edu/aat/300010669",
+            "type": "Material",
+            "_label": "Material of Which the Object is Composed",
+            "content": "terra-cotta"
+        }],
+        "produced_by": {
+            "id": "https://data.discovernewfields.org/object/24750/production",
+            "type": "Production",
+            "_label": "Production of the Object",
+            "carried_out_by": [{
+                "id": "http://vocab.getty.edu/ulan/500021673",
+                "type": "Actor",
+                "_label": "Leagros Group"
+            }],
+            "took_place_at": [{
+                "id": "http://vocab.getty.edu/tgn/7001393",
+                "type": "Place",
+                "_label": "Athens"
+            }],
+            "timespan": {
+                "id": "https://data.discovernewfields.org/object/24750/production/timespan",
+                "type": "TimeSpan",
+                "_label": "about 530-510 B.C.E.",
+                "begin_of_the_begin": "-0530-01-01T00:00:00",
+                "end_of_the_end": "-0510-12-31T00:00:00"
+            }
+        },
+        "dimension": [{
+            "id": "https://data.discovernewfields.org/object/24750/dimension-1/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 17.75,
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+            }],
+            "unit": {
+                "id": "http://vocab.getty.edu/aat/300379100",
+                "type": "Type",
+                "_label": "inches"
+            }
+        }],
+        "current_owner": {
+            "id": "http://vocab.getty.edu/ulan/500300517",
+            "type": "Group",
+            "_label": "Indianapolis Museum of Art at Newfields",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300312281",
+                "type": "Type",
+                "_label": "museums (institutions)"
+            }],
+            "acquired_title_through": [{
+                "id": "https://data.discovernewfields.org/object/24750/IMA-acquisition",
+                "type": "Acquisition",
+                "_label": "IMA at Newfields Acquisition of the Object",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300157782",
+                    "type": "Type",
+                    "_label": "acquisition (collections management)"
+                }],
+                "took_place_at": [{
+                    "id": "http://vocab.getty.edu/tgn/7012924",
+                    "type": "Place",
+                    "_label": "Indianapolis, Indiana"
+                }],
+                "timespan": {
+                    "id": "https://data.discovernewfields.org/object/24750/IMA-acquisition/timespan",
+                    "type": "TimeSpan",
+                    "_label": "1947-02-18",
+                    "begin_of_the_begin": "1947-02-18T00:00:00",
+                    "end_of_the_end": "1947-02-18T00:00:00"
+                }
+            }]
+        },
+        "member_of": [{
+            "id": "https://data.discovernewfields.org/collection/9042",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Classical Art Department",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+            }]
+        }],
+        "current_location": {
+            "id": "https://data.discovernewfields.org/thesauri/location/K312",
+            "type": "Place",
+            "_label": "Leah and Charles Redish Gallery",
+            "clasified_as": [{
+                "id": "http://vocab.getty.edu/aat/300240057",
+                "type": "Type",
+                "_label": "galleries (display spaces)"
+            }]
+        },
+        "referred_to_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/24750/credit-line",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Credit Line for the Object",
+                "content": "Gift of Mr. and Mrs. Eli Lilly",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300026687",
+                        "type": "Type",
+                        "_label": "acknowledgments"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/24750/dimension-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Dimensions of the Object",
+                "content": "17-3/4 in.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300266036",
+                        "type": "Type",
+                        "_label": "dimensions"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/24750/materials-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Materials of Which the Object is Composed",
+                "content": "terra-cotta with black glaze",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300010358",
+                        "type": "Type",
+                        "_label": "materials (substances)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/24750/creation-notes",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Creation Notes about the Object",
+                "content": "Artist: Leagros Group",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300027200",
+                        "type": "Type",
+                        "_label": "notes (documents)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/24750/rights-statement",
+                "type": "LinguisticObject",
+                "_label": "Rights Statement",
+                "content": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "type": "LinguisticObject",
+                "_label": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            }
+        ],
+        "subject_of": [{
+            "id": "http://collection.imamuseum.org/artwork/31726/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+                {
+                    "id": "http://vocab/getty.edu/aat/300264578",
+                    "type": "Type",
+                    "_label": "Web pages (documents)"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300266277",
+                    "type": "Type",
+                    "_label": "home pages"
+                }
+            ],
+            "format": "text/html"
+        }],
+        "representation": [
+            {
+                "id": "http://collection.imamuseum.org/artwork/31726/0_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31726/1_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31726/2_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31726/3_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31726/4_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31726/5_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            }
+        ]
+    }},
+    {"29029": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/29029",
+        "type": "HumanMadeObject",
+        "_label": "Pyxis: Nereid Riding a Hippocamp",
+        "classified_as": [{
+            "id": "http://vocab.getty.edu/aat/300198889",
+            "type": "Type",
+            "_label": "pyxides"
+        }],
+        "identified_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/29029/irn",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Collections Database Number for the Object",
+                "content": 29029,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404621",
+                    "type": "Type",
+                    "_label": "repository numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/29029/accession-number",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Accession Number for the Object",
+                "content": "47.40A-B",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300312355",
+                    "type": "Type",
+                    "_label": "accession numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/29029/title",
+                "type": "Name",
+                "_label": "Primary Title for the Object",
+                "content": "Pyxis: Nereid Riding a Hippocamp",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404670",
+                    "type": "Type",
+                    "_label": "preferred terms"
+                }]
+            }
+        ],
+        "made_of": [{
+            "id": "http://vocab.getty.edu/aat/300010669",
+            "type": "Material",
+            "_label": "Material of Which the Object is Composed",
+            "content": "terra-cotta"
+        }],
+        "produced_by": {
+            "id": "https://data.discovernewfields.org/object/29029/production",
+            "type": "Production",
+            "_label": "Production of the Object",
+            "carried_out_by": [{
+                "id": "https://data.discovernewfields.org/thesauri/culture/greek",
+                "type": "Actor",
+                "_label": "Greek"
+            }],
+            "timespan": {
+                "id": "https://data.discovernewfields.org/object/29029/production/timespan",
+                "type": "TimeSpan",
+                "_label": "3rd century B.C.E.",
+                "begin_of_the_begin": "-0300-01-01T00:00:00",
+                "end_of_the_end": "-0200-12-31T00:00:00"
+            }
+        },
+        "dimension": [
+            {
+                "id": "https://data.discovernewfields.org/object/29029/dimension-1/height",
+                "type": "Dimension",
+                "_label": "Dimensions for the Object",
+                "value": 2.5,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300055644",
+                    "type": "Type",
+                    "_label": "height"
+                }],
+                "unit": {
+                    "id": "http://vocab.getty.edu/aat/300379100",
+                    "type": "Type",
+                    "_label": "inches"
+                }
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/29029/dimension-1/diameter",
+                "type": "Dimension",
+                "_label": "Dimensions for the Object",
+                "value": 5.375,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300055624",
+                    "type": "Type",
+                    "_label": "diameter"
+                }],
+                "unit": {
+                    "id": "http://vocab.getty.edu/aat/300379100",
+                    "type": "Type",
+                    "_label": "inches"
+                }
+            }
+        ],
+        "current_owner": {
+            "id": "http://vocab.getty.edu/ulan/500300517",
+            "type": "Group",
+            "_label": "Indianapolis Museum of Art at Newfields",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300312281",
+                "type": "Type",
+                "_label": "museums (institutions)"
+            }],
+            "acquired_title_through": [{
+                "id": "https://data.discovernewfields.org/object/29029/IMA-acquisition",
+                "type": "Acquisition",
+                "_label": "IMA at Newfields Acquisition of the Object",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300157782",
+                    "type": "Type",
+                    "_label": "acquisition (collections management)"
+                }],
+                "took_place_at": [{
+                    "id": "http://vocab.getty.edu/tgn/7012924",
+                    "type": "Place",
+                    "_label": "Indianapolis, Indiana"
+                }]
+            }]
+        },
+        "member_of": [{
+            "id": "https://data.discovernewfields.org/collection/9042",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Classical Art Department",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+            }]
+        }],
+        "referred_to_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/29029/credit-line",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Credit Line for the Object",
+                "content": "Gift of Mr. & Mrs. Eli Lilly",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300026687",
+                        "type": "Type",
+                        "_label": "acknowledgments"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/29029/title-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Title(s) Associated with the Object",
+                "content": "A) container B) cover",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300417212",
+                        "type": "Type",
+                        "_label": "title statements"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/29029/dimension-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Dimensions of the Object",
+                "content": "2-1/2 x 5-3/8 (diam.) in.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300266036",
+                        "type": "Type",
+                        "_label": "dimensions"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/29029/materials-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Materials of Which the Object is Composed",
+                "content": "terra-cotta",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300010358",
+                        "type": "Type",
+                        "_label": "materials (substances)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/29029/rights-statement",
+                "type": "LinguisticObject",
+                "_label": "Rights Statement",
+                "content": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "type": "LinguisticObject",
+                "_label": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            }
+        ],
+        "part": [
+            {
+                "id": "https://data.discovernewfields.org/object/85757",
+                "type": "HumanMadeObject",
+                "_label": "Pyxis: Nereid Riding a Hippocamp"
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/85758",
+                "type": "HumanMadeObject",
+                "_label": "cover for Pyxis: Nereid Riding a Hippocamp"
+            }
+        ],
+        "subject_of": [{
+            "id": "http://collection.imamuseum.org/artwork/31727/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+                {
+                    "id": "http://vocab/getty.edu/aat/300264578",
+                    "type": "Type",
+                    "_label": "Web pages (documents)"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300266277",
+                    "type": "Type",
+                    "_label": "home pages"
+                }
+            ],
+            "format": "text/html"
+        }],
+        "representation": [
+            {
+                "id": "http://collection.imamuseum.org/artwork/31727/0_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31727/1_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31727/2_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            }
+        ]
+    }},
+    {"29030": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/29030",
+        "type": "HumanMadeObject",
+        "_label": "Attic Red-Figure Skyphos: Flute Player and Youth",
+        "classified_as": [{
+            "id": "http://vocab.getty.edu/aat/300265001",
+            "type": "Type",
+            "_label": "skyphoi"
+        }],
+        "identified_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/29030/irn",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Collections Database Number for the Object",
+                "content": 29030,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404621",
+                    "type": "Type",
+                    "_label": "repository numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/29030/accession-number",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Accession Number for the Object",
+                "content": "47.39",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300312355",
+                    "type": "Type",
+                    "_label": "accession numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/29030/title",
+                "type": "Name",
+                "_label": "Primary Title for the Object",
+                "content": "Attic Red-Figure Skyphos: Flute Player and Youth",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404670",
+                    "type": "Type",
+                    "_label": "preferred terms"
+                }]
+            }
+        ],
+        "shows": [{
+            "id": "https://data.discovernewfields.org/object/2554/VisualItem1",
+            "type": "VisualItem",
+            "style": [{
+                "id": "http://vocab.getty.edu/aat/300020201",
+                "type": "Type",
+                "_label": "Red-figure"
+            }]
+        }],
+        "technique": [{
+            "id": "http://vocab.getty.edu/aat/300387208",
+            "type": "Type",
+            "_label": "red-figure vase painting (image-making)"
+        }],
+        "made_of": [{
+            "id": "http://vocab.getty.edu/aat/300010669",
+            "type": "Material",
+            "_label": "Material of Which the Object is Composed",
+            "content": "terra-cotta"
+        }],
+        "produced_by": {
+            "id": "https://data.discovernewfields.org/object/29030/production",
+            "type": "Production",
+            "_label": "Production of the Object",
+            "carried_out_by": [{
+                "id": "http://vocab.getty.edu/ulan/500004128",
+                "type": "Actor",
+                "_label": "Shuvalov Painter"
+            }],
+            "took_place_at": [{
+                "id": "http://vocab.getty.edu/tgn/7001393",
+                "type": "Place",
+                "_label": "Athens",
+                "classified_as": [{
+                    "type": "Type",
+                    "id": "http://vocab.getty.edu/aat/300008389",
+                    "_label": "cities"
+                }]
+            }],
+            "timespan": {
+                "id": "https://data.discovernewfields.org/object/29030/production/timespan",
+                "type": "TimeSpan",
+                "_label": "about 440-410 B.C.E.",
+                "begin_of_the_begin": "-0439-01-01T00:00:00",
+                "end_of_the_end": "-0409-12-31T00:00:00"
+            }
+        },
+        "current_owner": {
+            "id": "http://vocab.getty.edu/ulan/500300517",
+            "type": "Group",
+            "_label": "Indianapolis Museum of Art at Newfields",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300312281",
+                "type": "Type",
+                "_label": "museums (institutions)"
+            }],
+            "acquired_title_through": [{
+                "id": "https://data.discovernewfields.org/object/29030/IMA-acquisition",
+                "type": "Acquisition",
+                "_label": "IMA at Newfields Acquisition of the Object",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300157782",
+                    "type": "Type",
+                    "_label": "acquisition (collections management)"
+                }],
+                "took_place_at": [{
+                    "id": "http://vocab.getty.edu/tgn/7012924",
+                    "type": "Place",
+                    "_label": "Indianapolis, Indiana"
+                }],
+                "timespan": {
+                    "id": "https://data.discovernewfields.org/object/29030/IMA-acquisition/timespan",
+                    "type": "TimeSpan",
+                    "_label": "1947-02-18",
+                    "begin_of_the_begin": "1947-02-18T00:00:00",
+                    "end_of_the_end": "1947-02-18T00:00:00"
+                }
+            }]
+        },
+        "member_of": [{
+            "id": "https://data.discovernewfields.org/collection/9042",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Classical Art Department",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+            }]
+        }],
+        "current_location": {
+            "id": "https://data.discovernewfields.org/thesauri/location/K312",
+            "type": "Place",
+            "_label": "Leah and Charles Redish Gallery",
+            "clasified_as": [{
+                "id": "http://vocab.getty.edu/aat/300240057",
+                "type": "Type",
+                "_label": "galleries (display spaces)"
+            }]
+        },
+        "referred_to_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/29030/credit-line",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Credit Line for the Object",
+                "content": "Gift of Mr. and Mrs. Eli Lilly",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300026687",
+                        "type": "Type",
+                        "_label": "acknowledgments"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/29030/dimension-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Dimensions of the Object",
+                "content": "No measurement details.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300266036",
+                        "type": "Type",
+                        "_label": "dimensions"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/29030/materials-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Materials of Which the Object is Composed",
+                "content": "terra-cotta",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300010358",
+                        "type": "Type",
+                        "_label": "materials (substances)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/29030/creation-notes",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Creation Notes about the Object",
+                "content": "Artist: Shuvalov Painter",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300027200",
+                        "type": "Type",
+                        "_label": "notes (documents)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/29030/rights-statement",
+                "type": "LinguisticObject",
+                "_label": "Rights Statement",
+                "content": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "type": "LinguisticObject",
+                "_label": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            }
+        ],
+        "subject_of": [{
+            "id": "http://collection.imamuseum.org/artwork/31724/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+                {
+                    "id": "http://vocab/getty.edu/aat/300264578",
+                    "type": "Type",
+                    "_label": "Web pages (documents)"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300266277",
+                    "type": "Type",
+                    "_label": "home pages"
+                }
+            ],
+            "format": "text/html"
+        }]
+    }},
+    {"31006": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/31006",
+        "type": "HumanMadeObject",
+        "_label": "Attic Black-Figure Band Cup: Lionesses and Goats",
+        "classified_as": [
+            {
+                "id": "http://vocab.getty.edu/aat/300133025",
+                "type": "Type",
+                "_label": "works of art"
+            },
+            {
+                "id": "http://vocab.getty.edu/aat/300047090",
+                "type": "Type",
+                "_label": "sculpture (visual works)"
+            },
+            {
+                "id": "http://vocab.getty.edu/aat/300198910",
+                "type": "Type",
+                "_label": "band cups"
+            }
+        ],
+        "identified_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/31006/irn",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Collections Database Number for the Object",
+                "content": 31006,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404621",
+                    "type": "Type",
+                    "_label": "repository numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/31006/accession-number",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Accession Number for the Object",
+                "content": "47.36",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300312355",
+                    "type": "Type",
+                    "_label": "accession numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/31006/title",
+                "type": "Name",
+                "_label": "Primary Title for the Object",
+                "content": "Attic Black-Figure Band Cup: Lionesses and Goats",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404670",
+                    "type": "Type",
+                    "_label": "preferred terms"
+                }]
+            }
+        ],
+        "shows": [{
+            "id": "https://data.discovernewfields.org/object/2554/VisualItem1",
+            "type": "VisualItem",
+            "style": [{
+                "id": "http://vocab.getty.edu/aat/300020195",
+                "type": "Type",
+                "_label": "Black-figure"
+            }]
+        }],
+        "technique": [{
+            "id": "http://vocab.getty.edu/aat/300387209",
+            "type": "Type",
+            "_label": "black-figure vase painting (image-making)"
+        }],
+        "made_of": [{
+            "id": "http://vocab.getty.edu/aat/300010669",
+            "type": "Material",
+            "_label": "Material of Which the Object is Composed",
+            "content": "terra-cotta"
+        }],
+        "produced_by": {
+            "id": "https://data.discovernewfields.org/object/31006/production",
+            "type": "Production",
+            "_label": "Production of the Object",
+            "carried_out_by": [{
+                "id": "https://data.discovernewfields.org/thesauri/culture/greek",
+                "type": "Actor",
+                "_label": "Greek"
+            }],
+            "timespan": {
+                "id": "https://data.discovernewfields.org/object/31006/production/timespan",
+                "type": "TimeSpan",
+                "_label": "about 540-530 B.C.E.",
+                "begin_of_the_begin": "-0539-01-01T00:00:00",
+                "end_of_the_end": "-0529-12-31T00:00:00"
+            }
+        },
+        "dimension": [
+            {
+                "id": "https://data.discovernewfields.org/object/31006/dimension-1/height",
+                "type": "Dimension",
+                "_label": "Dimensions for the Object",
+                "value": 5.625,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300055644",
+                    "type": "Type",
+                    "_label": "height"
+                }],
+                "unit": {
+                    "id": "http://vocab.getty.edu/aat/300379100",
+                    "type": "Type",
+                    "_label": "inches"
+                }
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/31006/dimension-1/diameter",
+                "type": "Dimension",
+                "_label": "Dimensions for the Object",
+                "value": 8.375,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300055624",
+                    "type": "Type",
+                    "_label": "diameter"
+                }],
+                "unit": {
+                    "id": "http://vocab.getty.edu/aat/300379100",
+                    "type": "Type",
+                    "_label": "inches"
+                }
+            }
+        ],
+        "current_owner": {
+            "id": "http://vocab.getty.edu/ulan/500300517",
+            "type": "Group",
+            "_label": "Indianapolis Museum of Art at Newfields",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300312281",
+                "type": "Type",
+                "_label": "museums (institutions)"
+            }],
+            "acquired_title_through": [{
+                "id": "https://data.discovernewfields.org/object/31006/IMA-acquisition",
+                "type": "Acquisition",
+                "_label": "IMA at Newfields Acquisition of the Object",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300157782",
+                    "type": "Type",
+                    "_label": "acquisition (collections management)"
+                }],
+                "took_place_at": [{
+                    "id": "http://vocab.getty.edu/tgn/7012924",
+                    "type": "Place",
+                    "_label": "Indianapolis, Indiana"
+                }]
+            }]
+        },
+        "member_of": [{
+            "id": "https://data.discovernewfields.org/collection/9042",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Classical Art Department",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+            }]
+        }],
+        "current_location": {
+            "id": "https://data.discovernewfields.org/thesauri/location/K312",
+            "type": "Place",
+            "_label": "Leah and Charles Redish Gallery",
+            "clasified_as": [{
+                "id": "http://vocab.getty.edu/aat/300240057",
+                "type": "Type",
+                "_label": "galleries (display spaces)"
+            }]
+        },
+        "referred_to_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/31006/credit-line",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Credit Line for the Object",
+                "content": "Gift of Mr. and Mrs. Eli Lilly",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300026687",
+                        "type": "Type",
+                        "_label": "acknowledgments"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/31006/dimension-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Dimensions of the Object",
+                "content": "5-5/8 x 8-3/8 (diam.) in.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300266036",
+                        "type": "Type",
+                        "_label": "dimensions"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/31006/materials-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Materials of Which the Object is Composed",
+                "content": "terra-cotta",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300010358",
+                        "type": "Type",
+                        "_label": "materials (substances)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/31006/rights-statement",
+                "type": "LinguisticObject",
+                "_label": "Rights Statement",
+                "content": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "type": "LinguisticObject",
+                "_label": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            }
+        ],
+        "subject_of": [{
+            "id": "http://collection.imamuseum.org/artwork/31721/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+                {
+                    "id": "http://vocab/getty.edu/aat/300264578",
+                    "type": "Type",
+                    "_label": "Web pages (documents)"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300266277",
+                    "type": "Type",
+                    "_label": "home pages"
+                }
+            ],
+            "format": "text/html"
+        }],
+        "representation": [
+            {
+                "id": "http://collection.imamuseum.org/artwork/31721/0_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31721/1_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31721/2_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31721/3_full.jpg",
+                "type": "VisualItem",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            }
+        ]
+    }},
+    {"31859": {
+        "@context": "https://linked.art/ns/v1/linked-art.json",
+        "id": "https://data.discovernewfields.org/object/31859",
+        "type": "HumanMadeObject",
+        "_label": "Red-figure Stamnos: Dionysiac Procession",
+        "classified_as": [
+            {
+                "id": "http://vocab.getty.edu/aat/300133025",
+                "type": "Type",
+                "_label": "works of art"
+            },
+            {
+                "id": "http://vocab.getty.edu/aat/300047090",
+                "type": "Type",
+                "_label": "sculpture (visual works)"
+            },
+            {
+                "id": "http://vocab.getty.edu/aat/300198881",
+                "type": "Type",
+                "_label": "stamnoi"
+            }
+        ],
+        "identified_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/31859/irn",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Collections Database Number for the Object",
+                "content": 31859,
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404621",
+                    "type": "Type",
+                    "_label": "repository numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/31859/accession-number",
+                "type": "Identifier",
+                "_label": "IMA at Newfields Accession Number for the Object",
+                "content": "31.299",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300312355",
+                    "type": "Type",
+                    "_label": "accession numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/31859/old-accession-number/1",
+                "type": "Identifier",
+                "_label": "Identifier Assigned to the Object by IMA at Newfields Prior to Acquisition",
+                "content": "TR1761/1",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404626",
+                    "type": "Type",
+                    "_label": "identification numbers"
+                }]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/31859/title",
+                "type": "Name",
+                "_label": "Primary Title for the Object",
+                "content": "Red-figure Stamnos: Dionysiac Procession",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300404670",
+                    "type": "Type",
+                    "_label": "preferred terms"
+                }]
+            }
+        ],
+        "made_of": [{
+            "id": "http://vocab.getty.edu/aat/300010669",
+            "type": "Material",
+            "_label": "Material of Which the Object is Composed",
+            "content": "terra-cotta"
+        }],
+        "produced_by": {
+            "id": "https://data.discovernewfields.org/object/31859/production",
+            "type": "Production",
+            "_label": "Production of the Object",
+            "carried_out_by": [{
+                "id": "http://vocab.getty.edu/ulan/500073243",
+                "type": "Actor",
+                "_label": "Hermonax"
+            }],
+            "took_place_at": [{
+                "id": "http://vocab.getty.edu/tgn/7001393",
+                "type": "Place",
+                "_label": "Athens",
+                "classified_as": [{
+                    "type": "Type",
+                    "id": "http://vocab.getty.edu/aat/300008389",
+                    "_label": "cities"
+                }]
+            }],
+            "timespan": {
+                "id": "https://data.discovernewfields.org/object/31859/production/timespan",
+                "type": "TimeSpan",
+                "_label": "470-440 B.C.E.",
+                "begin_of_the_begin": "-0469-01-01T00:00:00",
+                "end_of_the_end": "-0439-12-31T00:00:00"
+            }
+        },
+        "shows": [{
+            "id": "https://data.discovernewfields.org/object/31859/VisualItem1",
+            "type": "VisualItem",
+            "style": [{
+                "id": "http://vocab.getty.edu/aat/300020201",
+                "type": "Type",
+                "_label": "Red-figure"
+            }]
+        }],
+        "technique": [{
+            "id": "http://vocab.getty.edu/aat/300387208",
+            "type": "Type",
+            "_label": "red-figure vase painting (image-making)"
+        }],
+        "dimension": [{
+            "id": "https://data.discovernewfields.org/object/31859/dimension-1/height",
+            "type": "Dimension",
+            "_label": "Dimensions for the Object",
+            "value": 14.75,
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300055644",
+                "type": "Type",
+                "_label": "height"
+            }],
+            "unit": {
+                "id": "http://vocab.getty.edu/aat/300379100",
+                "type": "Type",
+                "_label": "inches"
+            }
+        }],
+        "encountered_by": {
+            "id": "http://example.org/discovery/1",
+            "type": "Encounter",
+            "took_place_at": {
+                "type": "Place",
+                "_label": "Tomb in Vulci",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300005926",
+                    "type": "Type",
+                    "_label": "tombs"
+                }],
+                "part_of": [{
+                    "id": "http://vocab.getty.edu/tgn/7015539",
+                    "type": "Place",
+                    "_label": "Vulci"
+                }]
+            }
+        },
+        "current_owner": {
+            "id": "http://vocab.getty.edu/ulan/500300517",
+            "type": "Group",
+            "_label": "Indianapolis Museum of Art at Newfields",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300312281",
+                "type": "Type",
+                "_label": "museums (institutions)"
+            }],
+            "acquired_title_through": [{
+                "id": "https://data.discovernewfields.org/object/31859/IMA-acquisition",
+                "type": "Acquisition",
+                "_label": "IMA at Newfields Acquisition of the Object",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300157782",
+                    "type": "Type",
+                    "_label": "acquisition (collections management)"
+                }],
+                "took_place_at": [{
+                    "id": "http://vocab.getty.edu/tgn/7012924",
+                    "type": "Place",
+                    "_label": "Indianapolis, Indiana"
+                }],
+                "timespan": {
+                    "id": "https://data.discovernewfields.org/object/31859/IMA-acquisition/timespan",
+                    "type": "TimeSpan",
+                    "_label": "1931-12-15",
+                    "begin_of_the_begin": "1931-12-15T00:00:00",
+                    "end_of_the_end": "1931-12-15T00:00:00"
+                }
+            }]
+        },
+        "member_of": [{
+            "id": "https://data.discovernewfields.org/collection/9042",
+            "type": "Set",
+            "_label": "Collection of IMA at Newfields' Classical Art Department",
+            "classified_as": [{
+                "id": "http://vocab.getty.edu/aat/300025976",
+                "type": "Type",
+                "_label": "collections (object groupings)"
+            }]
+        }],
+        "current_location": {
+            "id": "https://data.discovernewfields.org/thesauri/location/K312",
+            "type": "Place",
+            "_label": "Leah and Charles Redish Gallery",
+            "clasified_as": [{
+                "id": "http://vocab.getty.edu/aat/300240057",
+                "type": "Type",
+                "_label": "galleries (display spaces)"
+            }]
+        },
+        "referred_to_by": [
+            {
+                "id": "https://data.discovernewfields.org/object/31859/credit-line",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Credit Line for the Object",
+                "content": "From the Martha Delzell Fund",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300026687",
+                        "type": "Type",
+                        "_label": "acknowledgments"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/31859/dimension-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Dimensions of the Object",
+                "content": "14-3/4 in.",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300266036",
+                        "type": "Type",
+                        "_label": "dimensions"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/31859/materials-statement",
+                "type": "LinguisticObject",
+                "_label": "Notes about the Materials of Which the Object is Composed",
+                "content": "terra-cotta",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300010358",
+                        "type": "Type",
+                        "_label": "materials (substances)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/31859/creation-notes",
+                "type": "LinguisticObject",
+                "_label": "IMA at Newfields Creation Notes about the Object",
+                "content": "Artist: Hermonax (said to be from Vulci, Etruria)",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300027200",
+                        "type": "Type",
+                        "_label": "notes (documents)"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://data.discovernewfields.org/object/31859/rights-statement",
+                "type": "LinguisticObject",
+                "_label": "Rights Statement",
+                "content": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            },
+            {
+                "id": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "type": "LinguisticObject",
+                "_label": "Public Domain",
+                "classified_as": [
+                    {
+                        "id": "http://vocab.getty.edu/aat/300055547",
+                        "type": "Type",
+                        "_label": "legal concepts"
+                    },
+                    {
+                        "id": "http://vocab.getty.edu/aat/300418049",
+                        "type": "Type",
+                        "_label": "brief texts"
+                    }
+                ]
+            }
+        ],
+        "subject_of": [{
+            "id": "http://collection.imamuseum.org/artwork/31812/",
+            "type": "LinguisticObject",
+            "_label": "Homepage for the Object",
+            "classified_as": [
+                {
+                    "id": "http://vocab/getty.edu/aat/300264578",
+                    "type": "Type",
+                    "_label": "Web pages (documents)"
+                },
+                {
+                    "id": "http://vocab.getty.edu/aat/300266277",
+                    "type": "Type",
+                    "_label": "home pages"
+                }
+            ],
+            "format": "text/html"
+        }],
+        "representation": [
+            {
+                "id": "http://collection.imamuseum.org/artwork/31812/0_full.jpg",
+                "type": "VisualItem",
+                "_label": "Image of Painting",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31812/1_full.jpg",
+                "type": "VisualItem",
+                "_label": "Image of Painting",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31812/2_full.jpg",
+                "type": "VisualItem",
+                "_label": "Image of Painting",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31812/3_full.jpg",
+                "type": "VisualItem",
+                "_label": "Image of Painting",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31812/4_full.jpg",
+                "type": "VisualItem",
+                "_label": "Image of Painting",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31812/5_full.jpg",
+                "type": "VisualItem",
+                "_label": "Image of Painting",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31812/6_full.jpg",
+                "type": "VisualItem",
+                "_label": "Image of Painting",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31812/7_full.jpg",
+                "type": "VisualItem",
+                "_label": "Image of Painting",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31812/8_full.jpg",
+                "type": "VisualItem",
+                "_label": "Image of Painting",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            },
+            {
+                "id": "http://collection.imamuseum.org/artwork/31812/9_full.jpg",
+                "type": "VisualItem",
+                "_label": "Image of Painting",
+                "classified_as": [{
+                    "id": "http://vocab.getty.edu/aat/300215302",
+                    "type": "Type",
+                    "_label": "Digital Image"
+                }],
+                "format": "image/jpeg"
+            }
+        ]
+    }}
+]}

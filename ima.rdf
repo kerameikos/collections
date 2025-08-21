@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:kon="https://kerameikos.org/ontology#" xmlns:void="http://rdfs.org/ns/void#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:kid="https://kerameikos.org/id/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" xmlns:doap="http://usefulinc.com/ns/doap#"
+   xmlns:edm="http://www.europeana.eu/schemas/edm/">
+   <crm:E22_Man-Made_Object rdf:about="http://collection.imamuseum.org/artwork/17054/">
+      <crm:P1_is_identified_by>
+         <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>small red-figure lekythos</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+         </crm:E33_E41_Linguistic_Appellation>
+      </crm:P1_is_identified_by>
+      <crm:P1_is_identified_by>
+         <crm:E42_Identifier>
+            <crm:P190_has_symbolic_content>70.99.4</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+         </crm:E42_Identifier>
+      </crm:P1_is_identified_by>
+      <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+      <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/red_figure"/>
+      <kon:hasShape rdf:resource="https://kerameikos.org/id/lekythos"/>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/17054/0_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ima_newfields"/>
+      <void:inDataset rdf:resource="https://discovernewfields.org/"/>
+   </crm:E22_Man-Made_Object>
+   <crm:E22_Man-Made_Object rdf:about="http://collection.imamuseum.org/artwork/31723/">
+      <crm:P1_is_identified_by>
+         <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>White-Ground Lekythos: Mistress and Servant</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+         </crm:E33_E41_Linguistic_Appellation>
+      </crm:P1_is_identified_by>
+      <crm:P1_is_identified_by>
+         <crm:E42_Identifier>
+            <crm:P190_has_symbolic_content>47.38</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+         </crm:E42_Identifier>
+      </crm:P1_is_identified_by>
+      <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+      <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/white_ground"/>
+      <kon:hasShape rdf:resource="https://kerameikos.org/id/lekythos"/>
+      <crm:P108i_was_produced_by>
+         <crm:E12_Production>
+            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+            <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/athens_1826_painter"/>
+            <crm:P4_has_time-span>
+               <crm:E52_Time-Span>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0460</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0450</crm:P82b_end_of_the_end>
+               </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+         </crm:E12_Production>
+      </crm:P108i_was_produced_by>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31723/0_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ima_newfields"/>
+      <void:inDataset rdf:resource="https://discovernewfields.org/"/>
+   </crm:E22_Man-Made_Object>
+   <crm:E22_Man-Made_Object rdf:about="http://collection.imamuseum.org/artwork/31725/">
+      <crm:P1_is_identified_by>
+         <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Black-Figure Neck Amphora</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+         </crm:E33_E41_Linguistic_Appellation>
+      </crm:P1_is_identified_by>
+      <crm:P1_is_identified_by>
+         <crm:E42_Identifier>
+            <crm:P190_has_symbolic_content>47.42</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+         </crm:E42_Identifier>
+      </crm:P1_is_identified_by>
+      <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+      <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/black_figure"/>
+      <kon:hasShape rdf:resource="https://kerameikos.org/id/neck_amphora"/>
+      <crm:P108i_was_produced_by>
+         <crm:E12_Production>
+            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+            <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/antimenes_painter"/>
+            <crm:P4_has_time-span>
+               <crm:E52_Time-Span>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0520</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0500</crm:P82b_end_of_the_end>
+               </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+         </crm:E12_Production>
+      </crm:P108i_was_produced_by>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31725/0_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ima_newfields"/>
+      <void:inDataset rdf:resource="https://discovernewfields.org/"/>
+   </crm:E22_Man-Made_Object>
+   <crm:E22_Man-Made_Object rdf:about="http://collection.imamuseum.org/artwork/31719/">
+      <crm:P1_is_identified_by>
+         <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Red-Figure Hydria-Calpis: Hephaestus Returning to Mt. Olympus</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+         </crm:E33_E41_Linguistic_Appellation>
+      </crm:P1_is_identified_by>
+      <crm:P1_is_identified_by>
+         <crm:E42_Identifier>
+            <crm:P190_has_symbolic_content>47.34</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+         </crm:E42_Identifier>
+      </crm:P1_is_identified_by>
+      <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+      <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/red_figure"/>
+      <kon:hasShape rdf:resource="https://kerameikos.org/id/hydria"/>
+      <crm:P108i_was_produced_by>
+         <crm:E12_Production>
+            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+            <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/agrigento_painter"/>
+            <crm:P4_has_time-span>
+               <crm:E52_Time-Span>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0500</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0430</crm:P82b_end_of_the_end>
+               </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+         </crm:E12_Production>
+      </crm:P108i_was_produced_by>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31719/0_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ima_newfields"/>
+      <void:inDataset rdf:resource="https://discovernewfields.org/"/>
+   </crm:E22_Man-Made_Object>
+   <crm:E22_Man-Made_Object rdf:about="http://collection.imamuseum.org/artwork/17228/">
+      <crm:P1_is_identified_by>
+         <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Black Figure Lekythos</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+         </crm:E33_E41_Linguistic_Appellation>
+      </crm:P1_is_identified_by>
+      <crm:P1_is_identified_by>
+         <crm:E42_Identifier>
+            <crm:P190_has_symbolic_content>20.166</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+         </crm:E42_Identifier>
+      </crm:P1_is_identified_by>
+      <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+      <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/black_figure"/>
+      <kon:hasShape rdf:resource="https://kerameikos.org/id/lekythos"/>
+      <crm:P108i_was_produced_by>
+         <crm:E12_Production>
+            <crm:P4_has_time-span>
+               <crm:E52_Time-Span>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0350</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0350</crm:P82b_end_of_the_end>
+               </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+         </crm:E12_Production>
+      </crm:P108i_was_produced_by>
+      <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ima_newfields"/>
+      <void:inDataset rdf:resource="https://discovernewfields.org/"/>
+   </crm:E22_Man-Made_Object>
+   <crm:E22_Man-Made_Object rdf:about="http://collection.imamuseum.org/artwork/16928/">
+      <crm:P1_is_identified_by>
+         <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>small dish</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+         </crm:E33_E41_Linguistic_Appellation>
+      </crm:P1_is_identified_by>
+      <crm:P1_is_identified_by>
+         <crm:E42_Identifier>
+            <crm:P190_has_symbolic_content>23.35</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+         </crm:E42_Identifier>
+      </crm:P1_is_identified_by>
+      <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+      <kon:hasShape rdf:resource="https://kerameikos.org/id/dish"/>
+      <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ima_newfields"/>
+      <void:inDataset rdf:resource="https://discovernewfields.org/"/>
+   </crm:E22_Man-Made_Object>
+   <crm:E22_Man-Made_Object rdf:about="http://collection.imamuseum.org/artwork/31720/">
+      <crm:P1_is_identified_by>
+         <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Attic Red-Figure Lekythos: Zeus and Ganymede</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+         </crm:E33_E41_Linguistic_Appellation>
+      </crm:P1_is_identified_by>
+      <crm:P1_is_identified_by>
+         <crm:E42_Identifier>
+            <crm:P190_has_symbolic_content>47.35</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+         </crm:E42_Identifier>
+      </crm:P1_is_identified_by>
+      <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+      <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/red_figure"/>
+      <kon:hasShape rdf:resource="https://kerameikos.org/id/lekythos"/>
+      <crm:P108i_was_produced_by>
+         <crm:E12_Production>
+            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+            <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/achilles_painter"/>
+            <crm:P4_has_time-span>
+               <crm:E52_Time-Span>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0460</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0420</crm:P82b_end_of_the_end>
+               </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+         </crm:E12_Production>
+      </crm:P108i_was_produced_by>
+      <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ima_newfields"/>
+      <void:inDataset rdf:resource="https://discovernewfields.org/"/>
+   </crm:E22_Man-Made_Object>
+   <crm:E22_Man-Made_Object rdf:about="http://collection.imamuseum.org/artwork/31729/">
+      <crm:P1_is_identified_by>
+         <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Apulian Lekanis: Head of a Woman and Winged Genie</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+         </crm:E33_E41_Linguistic_Appellation>
+      </crm:P1_is_identified_by>
+      <crm:P1_is_identified_by>
+         <crm:E42_Identifier>
+            <crm:P190_has_symbolic_content>57.131A-B</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+         </crm:E42_Identifier>
+      </crm:P1_is_identified_by>
+      <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+      <kon:hasShape rdf:resource="https://kerameikos.org/id/lekanis"/>
+      <crm:P108i_was_produced_by>
+         <crm:E12_Production>
+            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/apulia"/>
+            <crm:P4_has_time-span>
+               <crm:E52_Time-Span>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0400</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0370</crm:P82b_end_of_the_end>
+               </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+         </crm:E12_Production>
+      </crm:P108i_was_produced_by>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31729/0_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ima_newfields"/>
+      <void:inDataset rdf:resource="https://discovernewfields.org/"/>
+   </crm:E22_Man-Made_Object>
+   <crm:E22_Man-Made_Object rdf:about="http://collection.imamuseum.org/artwork/31722/">
+      <crm:P1_is_identified_by>
+         <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Attic Red-Figure Kylix: Hetaira Drawing Water from a Pithos</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+         </crm:E33_E41_Linguistic_Appellation>
+      </crm:P1_is_identified_by>
+      <crm:P1_is_identified_by>
+         <crm:E42_Identifier>
+            <crm:P190_has_symbolic_content>47.37</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+         </crm:E42_Identifier>
+      </crm:P1_is_identified_by>
+      <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+      <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/red_figure"/>
+      <kon:hasShape rdf:resource="https://kerameikos.org/id/kylix"/>
+      <crm:P108i_was_produced_by>
+         <crm:E12_Production>
+            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+            <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/chaire_painter"/>
+            <crm:P4_has_time-span>
+               <crm:E52_Time-Span>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0550</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0450</crm:P82b_end_of_the_end>
+               </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+         </crm:E12_Production>
+      </crm:P108i_was_produced_by>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31722/0_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ima_newfields"/>
+      <void:inDataset rdf:resource="https://discovernewfields.org/"/>
+   </crm:E22_Man-Made_Object>
+   <crm:E22_Man-Made_Object rdf:about="http://collection.imamuseum.org/artwork/31726/">
+      <crm:P1_is_identified_by>
+         <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Black-Figure Hydria: Departing Warriors</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+         </crm:E33_E41_Linguistic_Appellation>
+      </crm:P1_is_identified_by>
+      <crm:P1_is_identified_by>
+         <crm:E42_Identifier>
+            <crm:P190_has_symbolic_content>47.43</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+         </crm:E42_Identifier>
+      </crm:P1_is_identified_by>
+      <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+      <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/black_figure"/>
+      <kon:hasShape rdf:resource="https://kerameikos.org/id/hydria"/>
+      <crm:P108i_was_produced_by>
+         <crm:E12_Production>
+            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+            <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/leagros_group"/>
+            <crm:P4_has_time-span>
+               <crm:E52_Time-Span>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0530</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0510</crm:P82b_end_of_the_end>
+               </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+         </crm:E12_Production>
+      </crm:P108i_was_produced_by>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31726/0_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ima_newfields"/>
+      <void:inDataset rdf:resource="https://discovernewfields.org/"/>
+   </crm:E22_Man-Made_Object>
+   <crm:E22_Man-Made_Object rdf:about="http://collection.imamuseum.org/artwork/31724/">
+      <crm:P1_is_identified_by>
+         <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Attic Red-Figure Skyphos: Flute Player and Youth</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+         </crm:E33_E41_Linguistic_Appellation>
+      </crm:P1_is_identified_by>
+      <crm:P1_is_identified_by>
+         <crm:E42_Identifier>
+            <crm:P190_has_symbolic_content>47.39</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+         </crm:E42_Identifier>
+      </crm:P1_is_identified_by>
+      <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+      <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/red_figure"/>
+      <kon:hasShape rdf:resource="https://kerameikos.org/id/skyphos"/>
+      <crm:P108i_was_produced_by>
+         <crm:E12_Production>
+            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+            <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/shuvalov_painter"/>
+            <crm:P4_has_time-span>
+               <crm:E52_Time-Span>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0440</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0410</crm:P82b_end_of_the_end>
+               </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+         </crm:E12_Production>
+      </crm:P108i_was_produced_by>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31724/0_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ima_newfields"/>
+      <void:inDataset rdf:resource="https://discovernewfields.org/"/>
+   </crm:E22_Man-Made_Object>
+   <crm:E22_Man-Made_Object rdf:about="http://collection.imamuseum.org/artwork/31721/">
+      <crm:P1_is_identified_by>
+         <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Attic Black-Figure Band Cup: Lionesses and Goats</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+         </crm:E33_E41_Linguistic_Appellation>
+      </crm:P1_is_identified_by>
+      <crm:P1_is_identified_by>
+         <crm:E42_Identifier>
+            <crm:P190_has_symbolic_content>47.36</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+         </crm:E42_Identifier>
+      </crm:P1_is_identified_by>
+      <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+      <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/black_figure"/>
+      <kon:hasShape rdf:resource="https://kerameikos.org/id/little_master_band_cup"/>
+      <crm:P108i_was_produced_by>
+         <crm:E12_Production>
+            <crm:P4_has_time-span>
+               <crm:E52_Time-Span>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0540</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0530</crm:P82b_end_of_the_end>
+               </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+         </crm:E12_Production>
+      </crm:P108i_was_produced_by>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31721/0_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ima_newfields"/>
+      <void:inDataset rdf:resource="https://discovernewfields.org/"/>
+   </crm:E22_Man-Made_Object>
+   <crm:E22_Man-Made_Object rdf:about="http://collection.imamuseum.org/artwork/31812/">
+      <crm:P1_is_identified_by>
+         <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Red-figure Stamnos: Dionysiac Procession</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+         </crm:E33_E41_Linguistic_Appellation>
+      </crm:P1_is_identified_by>
+      <crm:P1_is_identified_by>
+         <crm:E42_Identifier>
+            <crm:P190_has_symbolic_content>31.299</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+         </crm:E42_Identifier>
+      </crm:P1_is_identified_by>
+      <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+      <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/red_figure"/>
+      <kon:hasShape rdf:resource="https://kerameikos.org/id/stamnos"/>
+      <crm:P108i_was_produced_by>
+         <crm:E12_Production>
+            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+            <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/hermonax"/>
+            <crm:P4_has_time-span>
+               <crm:E52_Time-Span>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0470</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0440</crm:P82b_end_of_the_end>
+               </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+         </crm:E12_Production>
+      </crm:P108i_was_produced_by>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31812/0_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31812/1_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31812/2_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31812/3_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31812/4_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31812/5_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31812/6_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31812/7_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31812/8_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31812/9_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ima_newfields"/>
+      <void:inDataset rdf:resource="https://discovernewfields.org/"/>
+   </crm:E22_Man-Made_Object>
+   <crm:E22_Man-Made_Object rdf:about="http://collection.imamuseum.org/artwork/31727/">
+      <crm:P1_is_identified_by>
+         <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Pyxis: Nereid Riding a Hippocamp</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+         </crm:E33_E41_Linguistic_Appellation>
+      </crm:P1_is_identified_by>
+      <crm:P1_is_identified_by>
+         <crm:E42_Identifier>
+            <crm:P190_has_symbolic_content>47.40A</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+         </crm:E42_Identifier>
+      </crm:P1_is_identified_by>
+      <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+      <kon:hasShape rdf:resource="https://kerameikos.org/id/pyxis"/>
+      <crm:P108i_was_produced_by>
+         <crm:E12_Production>
+            <crm:P4_has_time-span>
+               <crm:E52_Time-Span>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0300</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0200</crm:P82b_end_of_the_end>
+               </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+         </crm:E12_Production>
+      </crm:P108i_was_produced_by>
+      <crm:P138i_has_representation>
+         <crm:E36_Visual_Item rdf:about="http://collection.imamuseum.org/artwork/31727/0_full.jpg">
+            <dcterms:format>image/jpeg</dcterms:format>
+         </crm:E36_Visual_Item>
+      </crm:P138i_has_representation>
+      <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ima_newfields"/>
+      <void:inDataset rdf:resource="https://discovernewfields.org/"/>
+   </crm:E22_Man-Made_Object>
+</rdf:RDF>

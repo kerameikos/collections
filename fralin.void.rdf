@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:void="http://rdfs.org/ns/void#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:nm="http://nomisma.org/id/">
+	<void:Dataset rdf:about="http://uvafralinartmuseum.virginia.edu/">
+		<dcterms:title>The Fralin Museum</dcterms:title>
+		<dcterms:description>The Greek vases and 3D models of the Fralin Museum at the University of Virginia</dcterms:description>
+		<dcterms:publisher>Rector and Board of Visitors of the University of Virginia</dcterms:publisher>
+		<dcterms:license rdf:resource="https://creativecommons.org/licenses/by-nc/4.0/"/>
+		<void:dataDump rdf:resource="http://18.209.35.196/rdf/fralin.rdf"/>
+	</void:Dataset>
+</rdf:RDF>

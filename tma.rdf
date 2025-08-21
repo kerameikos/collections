@@ -1,0 +1,559 @@
+<rdf:RDF xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" xmlns:crmgeo="http://www.ics.forth.gr/isl/CRMgeo/"
+    xmlns:crmsci="http://www.ics.forth.gr/isl/CRMsci/" xmlns:kon="https://kerameikos.org/ontology#" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:void="http://rdfs.org/ns/void#">
+    <crm:E22_Man-Made_Object rdf:about="https://collections.tampamuseum.org/objects/34">
+        <crm:P1_is_identified_by>
+            <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>Black-Figure Column Krater (Mixing Vessel)</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+            </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+            <crm:E42_Identifier>
+                <crm:P190_has_symbolic_content>1981.005</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+            </crm:E42_Identifier>
+        </crm:P1_is_identified_by>
+        <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+        <kon:hasShape rdf:resource="https://kerameikos.org/id/column_krater"/>
+        <crm:P108i_was_produced_by>
+            <crm:E12_Production>
+                <crm:P10_falls_within rdf:resource="https://kerameikos.org/id/archaic_greece"/> <crm:P7_took_place_at
+                    rdf:resource="https://kerameikos.org/id/athens"/>
+                <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/black_figure"/>
+                <crm:P4_has_time-span>
+                    <crm:E52_Time-Span>
+                        <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0510</crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0510</crm:P82b_end_of_the_end>
+                    </crm:E52_Time-Span>
+                </crm:P4_has_time-span>
+            </crm:E12_Production>
+        </crm:P108i_was_produced_by> <crm:P43_has_dimension>
+            <crm:E54_Dimension>
+                <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">30.48</crm:P90_has_value>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+                <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+            </crm:E54_Dimension>
+        </crm:P43_has_dimension>
+        <crm:P138i_has_representation>
+            <crm:E36_Visual_Item rdf:about="https://collections.tampamuseum.org/internal/media/zoomdispatcher/35/full/800,/0/default.jpg">
+                <dcterms:format>image/jpeg</dcterms:format>
+            </crm:E36_Visual_Item>
+        </crm:P138i_has_representation>
+        <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/tampa_museum_of_art"/>
+        <void:inDataset rdf:resource="https://tampamuseum.org/"/>
+    </crm:E22_Man-Made_Object>
+    <crm:E22_Man-Made_Object rdf:about="https://collections.tampamuseum.org/objects/6">
+        <crm:P1_is_identified_by>
+            <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>Black-Figure Amphora (Storage Vessel)</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+            </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+            <crm:E42_Identifier>
+                <crm:P190_has_symbolic_content>1986.023</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+            </crm:E42_Identifier>
+        </crm:P1_is_identified_by>
+        <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+        <kon:hasShape rdf:resource="https://kerameikos.org/id/amphora"/>
+        <crm:P108i_was_produced_by>
+            <crm:E12_Production>
+                <crm:P10_falls_within rdf:resource="https://kerameikos.org/id/archaic_greece"/>
+                <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/goltyr_painter"/>
+                <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+                <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/black_figure"/>
+                <crm:P4_has_time-span>
+                    <crm:E52_Time-Span>
+                        <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0560</crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0560</crm:P82b_end_of_the_end>
+                    </crm:E52_Time-Span>
+                </crm:P4_has_time-span>
+            </crm:E12_Production>
+        </crm:P108i_was_produced_by>
+        <crmsci:O19i_was_object_found_by>
+            <crmsci:S19_Encounter_Event>
+                <crm:P7_took_place_at>
+                    <crm:E53_Place>
+                        <rdfs:label xml:lang="en">Cerveteri, Italy</rdfs:label>
+                        <crm:P89_falls_within rdf:resource="http://www.wikidata.org/entity/Q242505"/>
+                    </crm:E53_Place>
+                </crm:P7_took_place_at>
+            </crmsci:S19_Encounter_Event>
+        </crmsci:O19i_was_object_found_by>
+        <crm:P43_has_dimension>
+            <crm:E54_Dimension>
+                <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">39.37</crm:P90_has_value>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+                <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+            </crm:E54_Dimension>
+        </crm:P43_has_dimension>
+        <crm:P138i_has_representation>
+            <crm:E36_Visual_Item rdf:about="https://collections.tampamuseum.org/internal/media/zoomdispatcher/7/full/800,/0/default.jpg">
+                <dcterms:format>image/jpeg</dcterms:format>
+            </crm:E36_Visual_Item>
+        </crm:P138i_has_representation>
+        <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/tampa_museum_of_art"/>
+        <void:inDataset rdf:resource="https://tampamuseum.org/"/>
+    </crm:E22_Man-Made_Object>
+    <crm:E22_Man-Made_Object rdf:about="https://collections.tampamuseum.org/objects/7">
+        <crm:P1_is_identified_by>
+            <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>Black-Figure Pseudo-Panathenaic Amphora (Storage Vessel)</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+            </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+            <crm:E42_Identifier>
+                <crm:P190_has_symbolic_content>1986.024</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+            </crm:E42_Identifier>
+        </crm:P1_is_identified_by>
+        <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+        <kon:hasShape rdf:resource="https://kerameikos.org/id/pseudo_panathenaic_amphora"/>
+        <crm:P108i_was_produced_by>
+            <crm:E12_Production>
+                <crm:P10_falls_within rdf:resource="https://kerameikos.org/id/archaic_greece"/> <crm:P7_took_place_at
+                    rdf:resource="https://kerameikos.org/id/athens"/>
+                <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/black_figure"/>
+                <crm:P4_has_time-span>
+                    <crm:E52_Time-Span>
+                        <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0540</crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0540</crm:P82b_end_of_the_end>
+                    </crm:E52_Time-Span>
+                </crm:P4_has_time-span>
+            </crm:E12_Production>
+        </crm:P108i_was_produced_by> <crm:P43_has_dimension>
+            <crm:E54_Dimension>
+                <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">34.29</crm:P90_has_value>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+                <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+            </crm:E54_Dimension>
+        </crm:P43_has_dimension>
+        <crm:P138i_has_representation>
+            <crm:E36_Visual_Item rdf:about="https://collections.tampamuseum.org/internal/media/zoomdispatcher/8/full/800,/0/default.jpg">
+                <dcterms:format>image/jpeg</dcterms:format>
+            </crm:E36_Visual_Item>
+        </crm:P138i_has_representation>
+        <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/tampa_museum_of_art"/>
+        <void:inDataset rdf:resource="https://tampamuseum.org/"/>
+    </crm:E22_Man-Made_Object>
+    <crm:E22_Man-Made_Object rdf:about="https://collections.tampamuseum.org/objects/8">
+        <crm:P1_is_identified_by>
+            <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>Black-Figure Amphora (Storage Vessel)</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+            </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+            <crm:E42_Identifier>
+                <crm:P190_has_symbolic_content>1986.026</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+            </crm:E42_Identifier>
+        </crm:P1_is_identified_by>
+        <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+        <kon:hasShape rdf:resource="https://kerameikos.org/id/amphora"/>
+        <crm:P108i_was_produced_by>
+            <crm:E12_Production>
+                <crm:P10_falls_within rdf:resource="https://kerameikos.org/id/archaic_greece"/>
+                <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/swing_painter"/>
+                <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+                <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/black_figure"/>
+                <crm:P4_has_time-span>
+                    <crm:E52_Time-Span>
+                        <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0540</crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0530</crm:P82b_end_of_the_end>
+                    </crm:E52_Time-Span>
+                </crm:P4_has_time-span>
+            </crm:E12_Production>
+        </crm:P108i_was_produced_by> <crm:P43_has_dimension>
+            <crm:E54_Dimension>
+                <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">39.37</crm:P90_has_value>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+                <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+            </crm:E54_Dimension>
+        </crm:P43_has_dimension>
+        <crm:P138i_has_representation>
+            <crm:E36_Visual_Item rdf:about="https://collections.tampamuseum.org/internal/media/zoomdispatcher/9/full/800,/0/default.jpg">
+                <dcterms:format>image/jpeg</dcterms:format>
+            </crm:E36_Visual_Item>
+        </crm:P138i_has_representation>
+        <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/tampa_museum_of_art"/>
+        <void:inDataset rdf:resource="https://tampamuseum.org/"/>
+    </crm:E22_Man-Made_Object>
+    <crm:E22_Man-Made_Object rdf:about="https://collections.tampamuseum.org/objects/9">
+        <crm:P1_is_identified_by>
+            <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>Black-Figure Kylix (Little Master Cup)</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+            </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+            <crm:E42_Identifier>
+                <crm:P190_has_symbolic_content>1986.050</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+            </crm:E42_Identifier>
+        </crm:P1_is_identified_by>
+        <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+        <kon:hasShape rdf:resource="https://kerameikos.org/id/kylix"/>
+        <crm:P108i_was_produced_by>
+            <crm:E12_Production>
+                <crm:P10_falls_within rdf:resource="https://kerameikos.org/id/archaic_greece"/>
+                <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/tleson_painter"/>
+                <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+                <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/black_figure"/>
+                <crm:P4_has_time-span>
+                    <crm:E52_Time-Span>
+                        <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0540</crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0530</crm:P82b_end_of_the_end>
+                    </crm:E52_Time-Span>
+                </crm:P4_has_time-span>
+            </crm:E12_Production>
+        </crm:P108i_was_produced_by>
+        <crmsci:O19i_was_object_found_by>
+            <crmsci:S19_Encounter_Event>
+                <crm:P7_took_place_at>
+                    <crm:E53_Place>
+                        <rdfs:label xml:lang="en">Marion, Cyprus</rdfs:label>
+                        <crm:P89_falls_within rdf:resource="http://www.wikidata.org/entity/Q1466831"/>
+                    </crm:E53_Place>
+                </crm:P7_took_place_at>
+            </crmsci:S19_Encounter_Event>
+        </crmsci:O19i_was_object_found_by>
+        <crm:P43_has_dimension>
+            <crm:E54_Dimension>
+                <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">11.11</crm:P90_has_value>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+                <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+            </crm:E54_Dimension>
+        </crm:P43_has_dimension>
+        <crm:P138i_has_representation>
+            <crm:E36_Visual_Item rdf:about="https://collections.tampamuseum.org/internal/media/zoomdispatcher/10/full/800,/0/default.jpg">
+                <dcterms:format>image/jpeg</dcterms:format>
+            </crm:E36_Visual_Item>
+        </crm:P138i_has_representation>
+        <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/tampa_museum_of_art"/>
+        <void:inDataset rdf:resource="https://tampamuseum.org/"/>
+    </crm:E22_Man-Made_Object>
+    <crm:E22_Man-Made_Object rdf:about="https://collections.tampamuseum.org/objects/10">
+        <crm:P1_is_identified_by>
+            <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>Black-Figure Eye Cup</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+            </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+            <crm:E42_Identifier>
+                <crm:P190_has_symbolic_content>1986.051</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+            </crm:E42_Identifier>
+        </crm:P1_is_identified_by>
+        <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+        <kon:hasShape rdf:resource="https://kerameikos.org/id/chalcidising_cup"/>
+        <crm:P108i_was_produced_by>
+            <crm:E12_Production>
+                <crm:P10_falls_within rdf:resource="https://kerameikos.org/id/archaic_greece"/> <crm:P7_took_place_at
+                    rdf:resource="https://kerameikos.org/id/athens"/>
+                <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/black_figure"/>
+                <crm:P4_has_time-span>
+                    <crm:E52_Time-Span>
+                        <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0530</crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0520</crm:P82b_end_of_the_end>
+                    </crm:E52_Time-Span>
+                </crm:P4_has_time-span>
+            </crm:E12_Production>
+        </crm:P108i_was_produced_by>
+        <crmsci:O19i_was_object_found_by>
+            <crmsci:S19_Encounter_Event>
+                <crm:P7_took_place_at>
+                    <crm:E53_Place>
+                        <rdfs:label xml:lang="en">Vulci, Italy</rdfs:label>
+                        <crm:P89_falls_within rdf:resource="http://www.wikidata.org/entity/Q931172"/>
+                    </crm:E53_Place>
+                </crm:P7_took_place_at>
+            </crmsci:S19_Encounter_Event>
+        </crmsci:O19i_was_object_found_by>
+        <crm:P43_has_dimension>
+            <crm:E54_Dimension>
+                <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">10.16</crm:P90_has_value>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+                <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+            </crm:E54_Dimension>
+        </crm:P43_has_dimension>
+        <crm:P138i_has_representation>
+            <crm:E36_Visual_Item rdf:about="https://collections.tampamuseum.org/internal/media/zoomdispatcher/11/full/800,/0/default.jpg">
+                <dcterms:format>image/jpeg</dcterms:format>
+            </crm:E36_Visual_Item>
+        </crm:P138i_has_representation>
+        <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/tampa_museum_of_art"/>
+        <void:inDataset rdf:resource="https://tampamuseum.org/"/>
+    </crm:E22_Man-Made_Object>
+    <crm:E22_Man-Made_Object rdf:about="https://collections.tampamuseum.org/objects/16">
+        <crm:P1_is_identified_by>
+            <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>Black-Figure Skyphos (Drinking Cup)</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+            </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+            <crm:E42_Identifier>
+                <crm:P190_has_symbolic_content>1986.052</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+            </crm:E42_Identifier>
+        </crm:P1_is_identified_by>
+        <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+        <kon:hasShape rdf:resource="https://kerameikos.org/id/skyphos"/>
+        <crm:P108i_was_produced_by>
+            <crm:E12_Production>
+                <crm:P10_falls_within rdf:resource="https://kerameikos.org/id/archaic_greece"/>
+                <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/theseus_painter"/>
+                <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+                <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/black_figure"/>
+                <crm:P4_has_time-span>
+                    <crm:E52_Time-Span>
+                        <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0490</crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0490</crm:P82b_end_of_the_end>
+                    </crm:E52_Time-Span>
+                </crm:P4_has_time-span>
+            </crm:E12_Production>
+        </crm:P108i_was_produced_by> <crm:P43_has_dimension>
+            <crm:E54_Dimension>
+                <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">16.51</crm:P90_has_value>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+                <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+            </crm:E54_Dimension>
+        </crm:P43_has_dimension>
+        <crm:P138i_has_representation>
+            <crm:E36_Visual_Item rdf:about="https://collections.tampamuseum.org/internal/media/zoomdispatcher/17/full/800,/0/default.jpg">
+                <dcterms:format>image/jpeg</dcterms:format>
+            </crm:E36_Visual_Item>
+        </crm:P138i_has_representation>
+        <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/tampa_museum_of_art"/>
+        <void:inDataset rdf:resource="https://tampamuseum.org/"/>
+    </crm:E22_Man-Made_Object>
+    <crm:E22_Man-Made_Object rdf:about="https://collections.tampamuseum.org/objects/18">
+        <crm:P1_is_identified_by>
+            <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>Red-Figure Hydria (Water Jar)</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+            </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+            <crm:E42_Identifier>
+                <crm:P190_has_symbolic_content>1986.070</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+            </crm:E42_Identifier>
+        </crm:P1_is_identified_by>
+        <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+        <kon:hasShape rdf:resource="https://kerameikos.org/id/hydria"/>
+        <crm:P108i_was_produced_by>
+            <crm:E12_Production>
+                <crm:P10_falls_within rdf:resource="https://kerameikos.org/id/classical_greece"/>
+                <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/harrow_painter"/>
+                <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+                <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/red_figure"/>
+                <crm:P4_has_time-span>
+                    <crm:E52_Time-Span>
+                        <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0470</crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0470</crm:P82b_end_of_the_end>
+                    </crm:E52_Time-Span>
+                </crm:P4_has_time-span>
+            </crm:E12_Production>
+        </crm:P108i_was_produced_by>
+        <crmsci:O19i_was_object_found_by>
+            <crmsci:S19_Encounter_Event>
+                <crm:P7_took_place_at>
+                    <crm:E53_Place>
+                        <rdfs:label xml:lang="en">Vulci, Italy</rdfs:label>
+                        <crm:P89_falls_within rdf:resource="http://www.wikidata.org/entity/Q931172"/>
+                    </crm:E53_Place>
+                </crm:P7_took_place_at>
+            </crmsci:S19_Encounter_Event>
+        </crmsci:O19i_was_object_found_by>
+        <crm:P43_has_dimension>
+            <crm:E54_Dimension>
+                <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">45.72</crm:P90_has_value>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+                <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+            </crm:E54_Dimension>
+        </crm:P43_has_dimension>
+        <crm:P138i_has_representation>
+            <crm:E36_Visual_Item rdf:about="https://collections.tampamuseum.org/internal/media/zoomdispatcher/19/full/800,/0/default.jpg">
+                <dcterms:format>image/jpeg</dcterms:format>
+            </crm:E36_Visual_Item>
+        </crm:P138i_has_representation>
+        <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/tampa_museum_of_art"/>
+        <void:inDataset rdf:resource="https://tampamuseum.org/"/>
+    </crm:E22_Man-Made_Object>
+    <crm:E22_Man-Made_Object rdf:about="https://collections.tampamuseum.org/objects/20">
+        <crm:P1_is_identified_by>
+            <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>Red-Figure Calyx Krater (Mixing Vessel)</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+            </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+            <crm:E42_Identifier>
+                <crm:P190_has_symbolic_content>1986.075</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+            </crm:E42_Identifier>
+        </crm:P1_is_identified_by>
+        <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+        <kon:hasShape rdf:resource="https://kerameikos.org/id/calyx_krater"/>
+        <crm:P108i_was_produced_by>
+            <crm:E12_Production>
+                <crm:P10_falls_within rdf:resource="https://kerameikos.org/id/classical_greece"/> <crm:P7_took_place_at
+                    rdf:resource="https://kerameikos.org/id/athens"/>
+                <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/red_figure"/>
+                <crm:P4_has_time-span>
+                    <crm:E52_Time-Span>
+                        <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0440</crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0440</crm:P82b_end_of_the_end>
+                    </crm:E52_Time-Span>
+                </crm:P4_has_time-span>
+            </crm:E12_Production>
+        </crm:P108i_was_produced_by> <crm:P43_has_dimension>
+            <crm:E54_Dimension>
+                <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">31.12</crm:P90_has_value>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+                <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+            </crm:E54_Dimension>
+        </crm:P43_has_dimension>
+        <crm:P138i_has_representation>
+            <crm:E36_Visual_Item rdf:about="https://collections.tampamuseum.org/internal/media/zoomdispatcher/21/full/800,/0/default.jpg">
+                <dcterms:format>image/jpeg</dcterms:format>
+            </crm:E36_Visual_Item>
+        </crm:P138i_has_representation>
+        <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/tampa_museum_of_art"/>
+        <void:inDataset rdf:resource="https://tampamuseum.org/"/>
+    </crm:E22_Man-Made_Object>
+    <crm:E22_Man-Made_Object rdf:about="https://collections.tampamuseum.org/objects/21">
+        <crm:P1_is_identified_by>
+            <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>White-Ground Lekythos (Oil Vessel)</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+            </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+            <crm:E42_Identifier>
+                <crm:P190_has_symbolic_content>1986.079</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+            </crm:E42_Identifier>
+        </crm:P1_is_identified_by>
+        <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+        <kon:hasShape rdf:resource="https://kerameikos.org/id/lekythos"/>
+        <crm:P108i_was_produced_by>
+            <crm:E12_Production>
+                <crm:P10_falls_within rdf:resource="https://kerameikos.org/id/classical_greece"/> <crm:P7_took_place_at
+                    rdf:resource="https://kerameikos.org/id/athens"/>
+                <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/white_ground"/>
+                <crm:P4_has_time-span>
+                    <crm:E52_Time-Span>
+                        <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0460</crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0460</crm:P82b_end_of_the_end>
+                    </crm:E52_Time-Span>
+                </crm:P4_has_time-span>
+            </crm:E12_Production>
+        </crm:P108i_was_produced_by> <crm:P43_has_dimension>
+            <crm:E54_Dimension>
+                <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">35.56</crm:P90_has_value>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+                <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+            </crm:E54_Dimension>
+        </crm:P43_has_dimension>
+        <crm:P138i_has_representation>
+            <crm:E36_Visual_Item rdf:about="https://collections.tampamuseum.org/internal/media/zoomdispatcher/22/full/800,/0/default.jpg">
+                <dcterms:format>image/jpeg</dcterms:format>
+            </crm:E36_Visual_Item>
+        </crm:P138i_has_representation>
+        <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/tampa_museum_of_art"/>
+        <void:inDataset rdf:resource="https://tampamuseum.org/"/>
+    </crm:E22_Man-Made_Object>
+    <crm:E22_Man-Made_Object rdf:about="https://collections.tampamuseum.org/objects/14">
+        <crm:P1_is_identified_by>
+            <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>Red-Figure Kylix (Drinking Cup) </crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+            </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+            <crm:E42_Identifier>
+                <crm:P190_has_symbolic_content>1986.085</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+            </crm:E42_Identifier>
+        </crm:P1_is_identified_by>
+        <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+        <kon:hasShape rdf:resource="https://kerameikos.org/id/kylix"/>
+        <crm:P108i_was_produced_by>
+            <crm:E12_Production>
+                <crm:P10_falls_within rdf:resource="https://kerameikos.org/id/archaic_greece"/>
+                <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/euergides_painter"/>
+                <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+                <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/red_figure"/>
+                <crm:P4_has_time-span>
+                    <crm:E52_Time-Span>
+                        <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0510</crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0500</crm:P82b_end_of_the_end>
+                    </crm:E52_Time-Span>
+                </crm:P4_has_time-span>
+            </crm:E12_Production>
+        </crm:P108i_was_produced_by> <crm:P43_has_dimension>
+            <crm:E54_Dimension>
+                <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">11.43</crm:P90_has_value>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+                <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+            </crm:E54_Dimension>
+        </crm:P43_has_dimension>
+        <crm:P138i_has_representation>
+            <crm:E36_Visual_Item rdf:about="https://collections.tampamuseum.org/internal/media/zoomdispatcher/15/full/800,/0/default.jpg">
+                <dcterms:format>image/jpeg</dcterms:format>
+            </crm:E36_Visual_Item>
+        </crm:P138i_has_representation>
+        <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/tampa_museum_of_art"/>
+        <void:inDataset rdf:resource="https://tampamuseum.org/"/>
+    </crm:E22_Man-Made_Object>
+    <crm:E22_Man-Made_Object rdf:about="https://collections.tampamuseum.org/objects/19">
+        <crm:P1_is_identified_by>
+            <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>Red-Figure Stamnos (Storage or Serving Vessel)</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+            </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+            <crm:E42_Identifier>
+                <crm:P190_has_symbolic_content>1993.029</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+            </crm:E42_Identifier>
+        </crm:P1_is_identified_by>
+        <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+        <kon:hasShape rdf:resource="https://kerameikos.org/id/stamnos"/>
+        <crm:P108i_was_produced_by>
+            <crm:E12_Production>
+                <crm:P10_falls_within rdf:resource="https://kerameikos.org/id/classical_greece"/> <crm:P7_took_place_at
+                    rdf:resource="https://kerameikos.org/id/athens"/>
+                <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/red_figure"/>
+                <crm:P4_has_time-span>
+                    <crm:E52_Time-Span>
+                        <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0460</crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0450</crm:P82b_end_of_the_end>
+                    </crm:E52_Time-Span>
+                </crm:P4_has_time-span>
+            </crm:E12_Production>
+        </crm:P108i_was_produced_by> <crm:P43_has_dimension>
+            <crm:E54_Dimension>
+                <crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">29.85</crm:P90_has_value>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+                <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+            </crm:E54_Dimension>
+        </crm:P43_has_dimension>
+        <crm:P138i_has_representation>
+            <crm:E36_Visual_Item rdf:about="https://collections.tampamuseum.org/internal/media/zoomdispatcher/20/full/800,/0/default.jpg">
+                <dcterms:format>image/jpeg</dcterms:format>
+            </crm:E36_Visual_Item>
+        </crm:P138i_has_representation>
+        <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/tampa_museum_of_art"/>
+        <void:inDataset rdf:resource="https://tampamuseum.org/"/>
+    </crm:E22_Man-Made_Object>
+</rdf:RDF>
