@@ -1,0 +1,54 @@
+<rdf:RDF xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" xmlns:crmgeo="http://www.ics.forth.gr/isl/CRMgeo/"
+    xmlns:crmsci="http://www.ics.forth.gr/isl/CRMsci/" xmlns:kon="https://kerameikos.org/ontology#" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:void="http://rdfs.org/ns/void#">
+    <crm:E22_Man-Made_Object rdf:about="https://collections.ashmolean.org/object/386771">
+        <crm:P1_is_identified_by>
+            <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>Attic black-figure pottery stemmed cup depicting a symposiastic scene</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404670"/>
+            </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P1_is_identified_by>
+            <crm:E42_Identifier>
+                <crm:P190_has_symbolic_content>AN1974.344</crm:P190_has_symbolic_content>
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+            </crm:E42_Identifier>
+        </crm:P1_is_identified_by>
+        <crm:P45_consists_of rdf:resource="https://kerameikos.org/id/terracotta"/>
+        <kon:hasShape rdf:resource="https://kerameikos.org/id/kylix_type_a"/>
+        <crm:P108i_was_produced_by>
+            <crm:E12_Production>
+                <crm:P9_consists_of>
+                    <crm:E12_Production>
+                        <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/andokides"/>
+                    </crm:E12_Production>
+                </crm:P9_consists_of>
+
+                <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
+                <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/black_figure"/>
+
+                <crm:P4_has_time-span>
+                    <crm:E52_Time-Span>
+                        <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0530</crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0515</crm:P82b_end_of_the_end>
+                    </crm:E52_Time-Span>
+                </crm:P4_has_time-span>
+            </crm:E12_Production>
+        </crm:P108i_was_produced_by>
+
+        <crm:P138i_has_representation>
+            <crm:E36_Visual_Item rdf:about="https://dams.ashmus.ox.ac.uk/iiif/image/12394/full/thm/0/default.jpg">
+                <dcterms:format>image/jpeg</dcterms:format>
+            </crm:E36_Visual_Item>
+        </crm:P138i_has_representation>
+        <crm:P129i_is_subject_of>
+            <crm:E73_Information_Object rdf:about="https://dams.ashmus.ox.ac.uk/iiif/386771/">
+                <dcterms:format>application/ld+json;profile=&quot;http://iiif.io/api/presentation/3/context.json&quot;</dcterms:format>
+                <dcterms:conformsTo rdf:resource="http://iiif.io/api/presentation"/>
+            </crm:E73_Information_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P50_has_current_keeper rdf:resource="https://kerameikos.org/id/ashmolean"/>
+        <void:inDataset rdf:resource="https://www.ashmolean.org/"/>
+    </crm:E22_Man-Made_Object>
+</rdf:RDF>
