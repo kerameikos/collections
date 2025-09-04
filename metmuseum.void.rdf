@@ -7,7 +7,7 @@
 		<dcterms:description>Greek vases in the Metropolitan Museum of Art</dcterms:description>
 		<dcterms:publisher>Metropolitan Museum of Art</dcterms:publisher>
 		<dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
-		<void:dataDump rdf:resource="https://kerameikos.org/rdf/ima.rdf"/>
+		<void:dataDump rdf:resource="https://kerameikos.org/rdf/metmuseum.rdf"/>
 	</void:Dataset>
 </rdf:RDF>
 
