@@ -40,7 +40,7 @@
       <kon:hasShape rdf:resource="https://kerameikos.org/id/lekythos"/>      
       <crm:P108i_was_produced_by>
          <crm:E12_Production>
-            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/attica"/>
+            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
             <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/black_figure"/>
             <crm:P4_has_time-span>
                <crm:E52_Time-Span>

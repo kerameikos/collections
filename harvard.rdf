@@ -41,7 +41,7 @@
       <kon:hasShape rdf:resource="https://kerameikos.org/id/lekythos"/>      
       <crm:P108i_was_produced_by>
          <crm:E12_Production>
-            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/attica"/>
+            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
             <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/red_figure"/>
             <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/berlin_painter"/>
             <crm:P4_has_time-span>
@@ -83,7 +83,7 @@
       <kon:hasShape rdf:resource="https://kerameikos.org/id/neck_amphora"/>      
       <crm:P108i_was_produced_by>
          <crm:E12_Production>
-            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/attica"/>
+            <crm:P7_took_place_at rdf:resource="https://kerameikos.org/id/athens"/>
             <crm:P32_used_general_technique rdf:resource="https://kerameikos.org/id/red_figure"/>
             <crm:P14_carried_out_by rdf:resource="https://kerameikos.org/id/berlin_painter"/>
             <crm:P4_has_time-span>
