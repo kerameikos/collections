@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:void="http://rdfs.org/ns/void#" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oa="http://www.w3.org/ns/oa#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+    <void:Dataset rdf:about="http://uremuseum.org/">
+        <dcterms:title xml:lang="en">Yale University Art Gallery</dcterms:title>
+        <dcterms:description xml:lang="en">The Yale University Art Gallery is an art museum in New Haven, Connecticut. It houses a major encyclopedic collection of art in several interconnected buildings on the campus of Yale University.</dcterms:description>
+        <dcterms:publisher>Yale University</dcterms:publisher>
+        <dcterms:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+        <void:dataDump rdf:resource="https://kerameikos.org/rdf/yale.rdf"/>
+    </void:Dataset>
+</rdf:RDF>
