@@ -2,7 +2,7 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:void="http://rdfs.org/ns/void#" xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oa="http://www.w3.org/ns/oa#"
     xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-    <void:Dataset rdf:about="http://uremuseum.org/">
+    <void:Dataset rdf:about="https://artgallery.yale.edu/">
         <dcterms:title xml:lang="en">Yale University Art Gallery</dcterms:title>
         <dcterms:description xml:lang="en">The Yale University Art Gallery is an art museum in New Haven, Connecticut. It houses a major encyclopedic collection of art in several interconnected buildings on the campus of Yale University.</dcterms:description>
         <dcterms:publisher>Yale University</dcterms:publisher>
